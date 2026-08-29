@@ -11,6 +11,12 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-08-29
+- John Deere — 1 domains/URLs
+Total: 1 domains/URLs
+
+_Sources: arkadiyt/bounty-targets-data (30-day window). Chaos and disclose.io checked, no new programs/domains in this window. bbscope.com and firebounty.com were unreachable from this environment (network egress blocked)._
+
 ### 2026-08-28
 - 8x8 — 1 domains/URLs
 - Aiven Managed Bug Bounty — 1 domains/URLs
