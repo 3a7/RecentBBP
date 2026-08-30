@@ -1152,3 +1152,4 @@ yritysmuutto.posti.fi
 zen.deezer.com
 zewa.net
 opsinsight.deere.com
+*.truelayer.com
