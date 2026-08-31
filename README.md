@@ -13,10 +13,12 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 
 ### 2026-08-31
 - KKR-VDP — 47 domains/URLs
+- NBA Public Bug Bounty — 43 domains/URLs
 - 8x8 — 6 domains/URLs
 - Water-Link — 4 domains/URLs
+- John Deere — 3 domains/URLs
 - Visa — 2 domains/URLs
-Total: 59 domains/URLs
+Total: 105 domains/URLs
 
 _Sources: arkadiyt/bounty-targets-data (30-day window). Chaos and disclose.io checked, no new programs/domains in this window. bbscope.com and firebounty.com were unreachable from this environment (network egress blocked)._
 
