@@ -11,6 +11,29 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-01
+- Essity — 445 domains/URLs
+- Visa — 6 domains/URLs
+- Mondelēz International — 5 domains/URLs
+- CBRE — 4 domains/URLs
+- SBB - Swiss Federal Railways — 3 domains/URLs
+- Water-Link — 3 domains/URLs
+- Agoda Public — 2 domains/URLs
+- DECATHLON — 2 domains/URLs
+- John Deere — 2 domains/URLs
+- toom Baumarkt GmbH - Webshop — 2 domains/URLs
+- Adobe Public — 1 domains/URLs
+- Chime Managed Bug Bounty Engagement — 1 domains/URLs
+- Cyber Security Coalition — 1 domains/URLs
+- Kaseya — 1 domains/URLs
+- LATAM Airlines — 1 domains/URLs
+- OST Consulting SRL Marketplace Managed Bug Bounty Engagement — 1 domains/URLs
+- VFS Global Bug Bounty Program — 1 domains/URLs
+- YesWeHack Dojo — 1 domains/URLs
+Total: 482 domains/URLs
+
+_Sources: arkadiyt/bounty-targets-data (30-day window; domains, wildcards, and in-scope URLs across HackerOne, Bugcrowd, Intigriti, YesWeHack, Federacy — no new IPs/CIDRs this window). Chaos and disclose.io checked, no new programs/domains in this window. bbscope.com and firebounty.com were unreachable from this environment (network egress blocked)._
+
 ### 2026-08-31
 - KKR-VDP — 47 domains/URLs
 - NBA Public Bug Bounty — 43 domains/URLs
