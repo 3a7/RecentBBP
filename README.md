@@ -11,6 +11,16 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-02
+- Adobe Public — 18 domains/URLs
+- Nationalaustraliabankog — 15 domains/URLs
+- GetYourGuide VDP — 2 domains/URLs
+- Coalition, Inc. — 1 domains/URLs
+- Fivetran Mbb Og — 1 domains/URLs
+Total: 37 domains/URLs
+
+_Sources: bbscope.com (events timestamped today across HackerOne, Bugcrowd, Intigriti, YesWeHack) and arkadiyt/bounty-targets-data (24h git-history diff). Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable and a baseline snapshot was stored, but as a first run it has no dated diff yet, so no assets are attributed to today from it — future runs will diff against this snapshot._
+
 ### 2026-09-01
 - Essity — 445 domains/URLs
 - Visa — 6 domains/URLs
