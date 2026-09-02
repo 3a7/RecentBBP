@@ -11,6 +11,379 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-02
+- Abinbev Vdp — 359 domains/URLs
+- Ziffdavis Vdp Pro — 261 domains/URLs
+- Optus Mbb Og — 31 domains/URLs, 135 IPs/CIDRs
+- Treasury Vdp — 101 domains/URLs
+- Usdoc Vdp — 79 domains/URLs
+- Opera — 57 domains/URLs, 11 IPs/CIDRs
+- Gsa Vdp — 66 domains/URLs
+- T Mobile — 66 domains/URLs
+- Costar Vdp Pro — 60 domains/URLs
+- Dol Vdp — 52 domains/URLs
+- Domain Vdp Pro — 49 domains/URLs
+- Usaa — 47 domains/URLs
+- Kroger Vdp — 45 domains/URLs
+- Dhs Vdp — 41 domains/URLs
+- Monash Mbb — 39 domains/URLs
+- Thetradedesk Mbb — 38 domains/URLs
+- Fcc Vdp — 30 domains/URLs
+- Allstate Vdp Pro — 29 domains/URLs
+- Atlassian — 29 domains/URLs
+- Cengage Vdp — 28 domains/URLs
+- Mn Secretary Of State Vdp — 28 domains/URLs
+- Rea Mbb Og — 28 domains/URLs
+- Seagate Vdp — 28 domains/URLs
+- Macquarie Group Vdp — 26 domains/URLs
+- Telefonicavdp — 26 domains/URLs
+- Cfpb Vdp — 25 domains/URLs
+- Majidalfuttaim Loyalty — 25 domains/URLs
+- Nine Entertainment Vdp Pro — 25 domains/URLs
+- Sproutsocial — 25 domains/URLs
+- Internetbrands Public — 24 domains/URLs
+- Natwest Vdp — 24 domains/URLs
+- Tva Vdp — 24 domains/URLs
+- Usgs Vdp — 24 domains/URLs
+- Atlassianapps — 23 domains/URLs
+- Insigniafinancial — 23 domains/URLs
+- Santos Vdp — 1 domains/URLs, 22 IPs/CIDRs
+- Underarmour Corp — 12 domains/URLs, 11 IPs/CIDRs
+- Assaabloy Americas Vdp — 22 domains/URLs
+- Latitude Financial Service Bugbounty — 22 domains/URLs
+- Originenergy Og1 — 22 domains/URLs
+- Tripadvisor Bb Og — 22 domains/URLs
+- Webflow Vdp Pro — 22 domains/URLs
+- Iagloyalty Vdp Pro — 20 domains/URLs
+- Irobot — 20 domains/URLs
+- Justeattakeaway — 20 domains/URLs
+- Volkswagen Vwfs Mbb Og — 20 domains/URLs
+- Bendigobank Vdp — 19 domains/URLs
+- City Of Vienna Mbb Og — 18 domains/URLs
+- Cpsc Vdp — 18 domains/URLs
+- Rakuten Vdp Pro — 18 domains/URLs
+- Recorded Future Mbb Og — 18 domains/URLs
+- Usdot Vdp — 18 domains/URLs
+- Ifood Og — 17 domains/URLs
+- Neohrms — 17 domains/URLs
+- Village Roadshow Vdp Pro — 17 domains/URLs
+- Arrow Electronics Vdp — 16 domains/URLs
+- Chime — 16 domains/URLs
+- Exodus — 16 domains/URLs
+- Hemi — 16 domains/URLs
+- Lime — 16 domains/URLs
+- Keepersecurity — 15 domains/URLs
+- Linktree Mbb Og — 15 domains/URLs
+- Mastercard — 15 domains/URLs
+- Nationalaustraliabankog — 15 domains/URLs
+- Optimizely — 15 domains/URLs
+- Auth0 Okta — 14 domains/URLs
+- Chemistwarehouse Vdp Pro — 14 domains/URLs
+- Classdojo — 14 domains/URLs
+- Ftc Vdp — 14 domains/URLs
+- Mallofemirates — 14 domains/URLs
+- Seek — 14 domains/URLs
+- Usac Vdp Pro — 14 domains/URLs
+- Blackbaud Vdp — 13 domains/URLs
+- Rokt Pte Vdp Pro — 13 domains/URLs
+- Thefork Mbb Og — 13 domains/URLs
+- Xero Vdp Pro — 13 domains/URLs
+- Afterpay — 12 domains/URLs
+- Connecteam Vdp Pro — 12 domains/URLs
+- Eeoc Vdp — 12 domains/URLs
+- Epam Mbb Og — 12 domains/URLs
+- Lululemon — 12 domains/URLs
+- Simplisafe — 12 domains/URLs
+- Usda Vdp — 12 domains/URLs
+- Viator — 12 domains/URLs
+- Absolutesoftware Vdp Pro2 — 11 domains/URLs
+- Glassdoor Ogbb — 11 domains/URLs
+- Intercom — 11 domains/URLs
+- Maffashion — 11 domains/URLs
+- Newrelic Mbb Og Public — 11 domains/URLs
+- Okta — 11 domains/URLs
+- Underarmour — 11 domains/URLs
+- Binance — 10 domains/URLs
+- Canva — 10 domains/URLs
+- Epa Vdp — 10 domains/URLs
+- FireBounty (self-hosted VDPs) — 10 domains/URLs
+- Prosus Og — 10 domains/URLs
+- Quintoandar — 10 domains/URLs
+- Rapyd — 10 domains/URLs
+- Arlo — 9 domains/URLs
+- Dickssportinggoods — 9 domains/URLs
+- Dish Network Vdp Pro — 9 domains/URLs
+- Etsy — 9 domains/URLs
+- Gapinc — 9 domains/URLs
+- Hutgroup Public — 9 domains/URLs
+- Ibotta — 9 domains/URLs
+- Klaviyo Og — 9 domains/URLs
+- Mgmmacau Mbb Og — 9 domains/URLs
+- Moneytreekkog — 9 domains/URLs
+- Trello — 9 domains/URLs
+- Unity — 9 domains/URLs
+- Aiven Mbb Og — 8 domains/URLs
+- Bupa Aus Vdp Pro — 8 domains/URLs
+- Elementor — 8 domains/URLs
+- Entain Public Mbb Og — 7 domains/URLs
+- Etoro Mbb Og — 8 domains/URLs
+- Lastpass — 8 domains/URLs
+- Usagm Vdp — 8 domains/URLs
+- Va Vdp — 8 domains/URLs
+- Virtru Vdp Pro — 8 domains/URLs
+- Asana — 7 domains/URLs
+- Bitpanda Og Bb — 7 domains/URLs
+- Cms Vdp — 7 domains/URLs
+- Frtib Vdp — 5 domains/URLs, 2 IPs/CIDRs
+- Geotab Vdp — 7 domains/URLs
+- Indeed — 7 domains/URLs
+- Lumenvdp — 7 domains/URLs
+- Olx Eu — 7 domains/URLs
+- Requirement Yogi — 7 domains/URLs
+- Sophos — 7 domains/URLs
+- Soundcloud — 7 domains/URLs
+- Sunrun Vdp Pro — 7 domains/URLs
+- Tidal Bugbounty — 7 domains/URLs
+- Twentyminuten — 7 domains/URLs
+- Uni Melbourne Vdp — 2 domains/URLs, 5 IPs/CIDRs
+- Barracuda — 6 domains/URLs
+- Bugcrowd — 6 domains/URLs
+- Cms Bbpublic — 6 domains/URLs
+- Dnfsb Vdp — 2 domains/URLs, 4 IPs/CIDRs
+- Emag Vdp Pro — 6 domains/URLs
+- Flourish — 6 domains/URLs
+- Flybuys Vdp Pro — 6 domains/URLs
+- Immutable — 6 domains/URLs
+- Openai — 6 domains/URLs
+- Strongdm — 6 domains/URLs
+- Tesla — 6 domains/URLs
+- Visa — 6 domains/URLs
+- Anz Vdp — 5 domains/URLs
+- Bitgo Mbb Og Public — 5 domains/URLs
+- Cloudinary — 5 domains/URLs
+- Entain Glf Mbb Og — 5 domains/URLs
+- Figment Vdp — 5 domains/URLs
+- Hypixel Studios Mbb Og — 5 domains/URLs
+- Jll Vdp Pro — 5 domains/URLs
+- Launchdarkly Mbb Og — 5 domains/URLs
+- Lenovoresponsibledisclosure — 5 domains/URLs
+- Luno Og — 5 domains/URLs
+- Maryland Vdp Pro — 5 domains/URLs
+- Monash Esf — 5 domains/URLs
+- Ohio Ago Vdp Pro — 5 domains/URLs
+- Opensea — 5 domains/URLs
+- Overstockvdp — 5 domains/URLs
+- Planethosterinc — 5 domains/URLs
+- Rmit University Vdp Pro — 4 domains/URLs, 1 IP/CIDR
+- Ultabeauty Vdp — 5 domains/URLs
+- University Canterbury Vdp Pro — 5 domains/URLs
+- Verisign — 5 domains/URLs
+- Westpac Vdp Pro — 5 domains/URLs
+- Wise — 5 domains/URLs
+- Acorns — 4 domains/URLs
+- Chipotle Mbb Og — 4 domains/URLs
+- Doi Vdp — 4 domains/URLs
+- Fdic Vdp — 4 domains/URLs
+- Gartner Disclosure — 4 domains/URLs
+- Gearset Mbb — 4 domains/URLs
+- Houseful Zoopla Vdp — 4 domains/URLs
+- Imperva Mbb — 4 domains/URLs
+- Kaleido — 4 domains/URLs
+- Legalzoom Vdp — 4 domains/URLs
+- Lightspeed Retail — 4 domains/URLs
+- Nps Vdp — 4 domains/URLs
+- Nsf Vdp — 4 domains/URLs
+- Nubank — 4 domains/URLs
+- Pbgc Vdp — 4 domains/URLs
+- Plusgrade Vdp Pro — 4 domains/URLs
+- Psa Vdp — 4 domains/URLs
+- Sba Vdp — 4 domains/URLs
+- Stability Ai Vdp Pro — 4 domains/URLs
+- Telstra Vdp — 4 domains/URLs
+- Tempusex Public Mbb Og — 4 domains/URLs
+- Ultramobile Ecomm — 4 domains/URLs
+- Wyze — 4 domains/URLs
+- Apra Vdp Pro — 3 IPs/CIDRs
+- Bbw Vdp Pro — 3 domains/URLs
+- Bitdefender — 3 domains/URLs
+- Bitso Mbb Og — 3 domains/URLs
+- Blockchain Dot Com — 3 domains/URLs
+- Blofin Crypto Mbb Og — 3 domains/URLs
+- Bordgaisenergy — 3 domains/URLs
+- Cfr — 3 domains/URLs
+- Cisconetworking — 3 domains/URLs
+- Comcastvdp — 3 domains/URLs
+- Dell Com — 3 domains/URLs
+- Fireblocks Mbb Og — 3 domains/URLs
+- Gusto Vdp — 3 domains/URLs
+- Hackme — 3 domains/URLs
+- Keurigdrpepper Vdp Pro — 3 domains/URLs
+- Lightspeed Hospitality — 3 domains/URLs
+- Magiclabs Mbb Og — 3 domains/URLs
+- Marqeta Vdp Public — 3 domains/URLs
+- Myndr — 3 domains/URLs
+- Nasa Vdp — 3 domains/URLs
+- Northwestern Mutual Mbb Og — 2 domains/URLs, 1 IP/CIDR
+- Opsgenie — 3 domains/URLs
+- Pinterest — 3 domains/URLs
+- Racv Vdp Pro — 3 domains/URLs
+- Saltosystems/Saltovulnerabilitydisclosure — 3 domains/URLs
+- Seatgeek Vdp Pro — 3 domains/URLs
+- Service Nsw Vdp — 3 domains/URLs
+- Square — 3 domains/URLs
+- Ssa Vdp — 3 domains/URLs
+- Telstra Health — 3 domains/URLs
+- Thousandeyes Vdp — 3 domains/URLs
+- Tns Vdp Pro — 3 domains/URLs
+- Usbr Vdp — 3 domains/URLs
+- Vox — 3 domains/URLs
+- Webdotcom — 3 domains/URLs
+- Ynab — 3 domains/URLs
+- Backblaze — 2 domains/URLs
+- Blm Vdp — 2 domains/URLs
+- Bolt Og — 2 domains/URLs
+- Brave — 2 domains/URLs
+- Bullish — 2 domains/URLs
+- Bullish Exchange — 2 domains/URLs
+- Carrefour — 2 domains/URLs
+- Cashapp — 2 domains/URLs
+- Cbre — 2 domains/URLs
+- Ccdata Mbb Og — 2 domains/URLs
+- Cigie Vdp — 2 domains/URLs
+- Cisco Cpx Vdp — 2 domains/URLs
+- Clickhouse — 2 domains/URLs
+- Codeorg — 2 domains/URLs
+- Csb Vdp — 2 domains/URLs
+- Csosa Vdp — 2 domains/URLs
+- Despegar Vdp Pro — 2 domains/URLs
+- Europeanspaceagency/Europeanspaceagencyvdp — 2 domains/URLs
+- Felix Health Mbb Og — 2 domains/URLs
+- Fhfa Vdp — 2 domains/URLs
+- Financialforce — 2 domains/URLs
+- Fws Vdp — 2 domains/URLs
+- GetYourGuide VDP — 2 domains/URLs
+- Hostgator Latam Bb — 2 domains/URLs
+- Iag Transform Vdp Pro — 2 domains/URLs
+- Interwell Health Vdp Pro — 2 domains/URLs
+- Jora — 2 domains/URLs
+- Kohls — 2 domains/URLs
+- Ltk Vdp Pro — 2 domains/URLs
+- Mcc Vdp — 2 domains/URLs
+- Mcdonalds — 2 domains/URLs
+- Ncua Vdp — 2 domains/URLs
+- Octopus Og — 2 domains/URLs
+- Onhir Vdp — 2 domains/URLs
+- Onrr Vdp — 2 domains/URLs
+- Osl Mbb Og1 — 2 domains/URLs
+- Owasp Vdp Pro — 2 domains/URLs
+- Posthog Vdp Pro — 2 domains/URLs
+- Progress Podio Vdp — 2 domains/URLs
+- Roobet Vdp — 2 domains/URLs
+- Smartchain Mbb Og — 2 domains/URLs
+- Snapnames — 2 domains/URLs
+- Statuspage — 2 domains/URLs
+- Trm Labs Public Mbb — 2 domains/URLs
+- Tyler Tech Data Insights — 2 domains/URLs
+- Udall Vdp — 2 domains/URLs
+- Ultramobile Public — 2 domains/URLs
+- Unisys Vdp Pro — 2 domains/URLs
+- United Vdp — 2 domains/URLs
+- Westjet Disclose — 2 domains/URLs
+- Wickr — 2 domains/URLs
+- Abmc Vdp — 1 domains/URLs
+- Adoreme Vdp — 1 domains/URLs
+- Anecdotes Vdp Pro — 1 domains/URLs
+- Appdynamics Vdp — 1 domains/URLs
+- Aurory Mbb Og2 — 1 domains/URLs
+- Axelspringerse/Nmt — 1 domains/URLs
+- Belong Vdp Pro — 1 domains/URLs
+- Bia Vdp — 1 domains/URLs
+- Bie Vdp — 1 domains/URLs
+- Bind Bug Bounty Program — 1 domains/URLs
+- Bnz — 1 domains/URLs
+- Bug Bounty Program Blablacar — 1 domains/URLs
+- Cdt Vdp Pro — 1 domains/URLs
+- Coalition, Inc. — 1 domains/URLs
+- Coindesk Mbb Og — 1 domains/URLs
+- Consensus Mbb Og — 1 domains/URLs
+- Corporatewebsites Vdp — 1 domains/URLs
+- Deezer Bug Bounty Program 2019 — 1 domains/URLs
+- Dfc Vdp — 1 domains/URLs
+- Eazybi — 1 domains/URLs
+- Essity — 1 domains/URLs
+- Exim Vdp — 1 domains/URLs
+- Fivetran Mbb Og — 1 domains/URLs
+- Fmshrc Vdp — 1 domains/URLs
+- Gamingcorps Vdp Pro — 1 domains/URLs
+- Genius Vdp — 1 domains/URLs
+- Glean Technologies Public — 1 domains/URLs
+- Healthifyme — 1 domains/URLs
+- Hpe Networking Product Public — 1 domains/URLs
+- Iaf Vdp — 1 domains/URLs
+- John Deere — 1 domains/URLs
+- Kick Vdp Pro — 1 domains/URLs
+- Kinaxis Vdp Pro — 1 domains/URLs
+- Kiteworks Public — 1 domains/URLs
+- Kucoin — 1 domains/URLs
+- Labcorp Vdp1 — 1 domains/URLs
+- Ledn Vdp Pro — 1 domains/URLs
+- Legacy Blockchain Mbb Og — 1 domains/URLs
+- Loadmaster Vdp — 1 domains/URLs
+- Lucidmotors Vdp — 1 domains/URLs
+- Matlab Online — 1 domains/URLs
+- Mattermost Mbb Public — 1 domains/URLs
+- Moovit Mbb Og — 1 domains/URLs
+- Myfitnesspal Mbb — 1 domains/URLs
+- Navan — 1 domains/URLs
+- Nfl Vdp Pro — 1 domains/URLs
+- Nigc Vdp — 1 domains/URLs
+- Nlrb Vdp — 1 domains/URLs
+- Northwestern Vdp — 1 domains/URLs
+- Ntsb Vdp — 1 domains/URLs
+- Octopus Deploy — 1 domains/URLs
+- Onetrust — 1 domains/URLs
+- Optus Vdp Pro — 1 domains/URLs
+- Osmre Vdp — 1 domains/URLs
+- Owf Vdp — 1 domains/URLs
+- Pantheon — 1 domains/URLs
+- Pclob Vdp — 1 domains/URLs
+- Pexels — 1 domains/URLs
+- Phyn Belkin Vdp Pro — 1 domains/URLs
+- Pixabay — 1 domains/URLs
+- Prc Vdp1 — 1 domains/URLs
+- Progresssoftware Rag — 1 domains/URLs
+- Quitelike Vdp Pro — 1 domains/URLs
+- Quizlet — 1 domains/URLs
+- Refined2 — 1 domains/URLs
+- Retool Vdp — 1 domains/URLs
+- Rrb Vdp — 1 domains/URLs
+- Rsac Vdp Pro — 1 domains/URLs
+- Security — 1 domains/URLs
+- Sharefile Vdp Pro — 1 domains/URLs
+- Skroutz — 1 domains/URLs
+- Skyscanner — 1 domains/URLs
+- Smartthings — 1 domains/URLs
+- Stake Vdp Pro — 1 domains/URLs
+- Statefarm Esf — 1 domains/URLs
+- Superhuman — 1 domains/URLs
+- Tamedia — 1 domains/URLs
+- Telenor Sweden Public Bug Bounty Program — 1 domains/URLs
+- Torproject — 1 domains/URLs
+- Ultramobile Retailer Portal — 1 domains/URLs
+- Umbrella Vdp Pro — 1 domains/URLs
+- Upwork — 1 domains/URLs
+- Usitc Vdp — 1 domains/URLs
+- Victoriassecret Vdp — 1 domains/URLs
+- Vodafone Oman — 1 domains/URLs
+- Volkswagen Og — 1 domains/URLs
+- Wealthsimple — 1 domains/URLs
+- Whatsupgold Vdp — 1 domains/URLs
+- Zabbix — 1 domains/URLs
+- Zaxbys Vdp Pro — 1 domains/URLs
+Total: 3638 domains/URLs, 195 IPs/CIDRs
+
+_Sources: bbscope.com (30-day window; HackerOne, Bugcrowd, Intigriti, YesWeHack), arkadiyt/bounty-targets-data (30-day window), FireBounty (newest self-hosted-VDP feed entries — first successful run, no dated baseline yet so future runs will diff against this snapshot). Chaos and disclose.io checked, no new programs/domains in this window._
+
 ### 2026-09-01
 - Essity — 445 domains/URLs
 - Visa — 6 domains/URLs
