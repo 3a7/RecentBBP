@@ -11,6 +11,21 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-04
+- Intercom — 11 domains/URLs
+- Binance — 10 domains/URLs
+- WP Engine Bug Bounty — 6 domains/URLs
+- John Deere — 5 domains/URLs
+- Acorns — 4 domains/URLs
+- Petpooja Vdp Pro — 3 domains/URLs
+- Fifth Third Bank Vdp — 2 domains/URLs
+- Opensea — 2 domains/URLs
+- Ccdata Mbb Og — 2 domains/URLs
+- T Mobile — 1 domains/URLs
+Total: 46 domains/URLs
+
+_Sources: bbscope.com (events timestamped in the last 24h across HackerOne, Bugcrowd, Intigriti, YesWeHack) and arkadiyt/bounty-targets-data (24h git-history diff). Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but reported a first run again (no snapshot persisted across sessions), so no assets are attributed to today from it._
+
 ### 2026-09-03
 - Monash Mbb — 41 domains/URLs
 - Kinepolis Group — 39 domains/URLs
