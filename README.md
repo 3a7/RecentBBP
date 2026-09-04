@@ -12,19 +12,13 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-09-04
-- Intercom — 11 domains/URLs
-- Binance — 10 domains/URLs
 - WP Engine Bug Bounty — 6 domains/URLs
 - John Deere — 5 domains/URLs
-- Acorns — 4 domains/URLs
-- Petpooja Vdp Pro — 3 domains/URLs
-- Fifth Third Bank Vdp — 2 domains/URLs
-- Opensea — 2 domains/URLs
-- Ccdata Mbb Og — 2 domains/URLs
+- Fifth Third Bank VDP — 2 domains/URLs
 - T Mobile — 1 domains/URLs
-Total: 46 domains/URLs
+Total: 14 domains/URLs
 
-_Sources: bbscope.com (events timestamped in the last 24h across HackerOne, Bugcrowd, Intigriti, YesWeHack) and arkadiyt/bounty-targets-data (24h git-history diff). Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but reported a first run again (no snapshot persisted across sessions), so no assets are attributed to today from it._
+_Sources: arkadiyt/bounty-targets-data (24h git-history diff — the only source that verifies changes against real snapshots) confirms these 14. bbscope.com's `since=` parameter does not actually filter server-side (it returned events back to Aug 12 for a 1-day query) and its per-asset "added" events on Bugcrowd programs turned out to re-fire for scope that hadn't changed: cross-checking bbscope's other 32 reported additions (Intercom, Binance, OpenSea, Petpooja VDP Pro, CCData MBB OG, Acorns) against bounty-targets-data's 24h-old snapshot showed those exact targets, and in most cases the exact program's full in-scope list, byte-for-byte unchanged — so they were dropped as false positives rather than recorded as new. Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but reported a first run again (no snapshot persisted across sessions), so no assets are attributed to today from it._
 
 ### 2026-09-03
 - Monash Mbb — 41 domains/URLs
