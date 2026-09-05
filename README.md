@@ -11,14 +11,6 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
-### 2026-09-05
-- DataCamp — 9 domains/URLs
-- Maya - Public Bug Bounty Program — 6 domains/URLs
-- John Deere — 2 domains/URLs
-Total: 17 domains/URLs
-
-_Sources: arkadiyt/bounty-targets-data (24h git-history diff) found these 17 and 2 new program launches (DataCamp, Maya). bbscope.com was reachable but its `since=` filter is still broken (a 1-day query returned events dated back to Aug 30, with a `total_count` in the hundreds of thousands) — cross-checking confirmed its John Deere and Maya events matched arkadiyt's real diff, so bbscope was used only as corroboration, not as a source of additional assets. Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but reported a first run again (no snapshot persisted across sessions), so no assets are attributed to today from it. No new IPs/CIDRs found._
-
 ### 2026-09-04
 - WP Engine Bug Bounty — 6 domains/URLs
 - John Deere — 5 domains/URLs
