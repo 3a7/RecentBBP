@@ -1,0 +1,2 @@
+asnpromcp-prod.deere.com
+biomcp.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com

@@ -11,6 +11,12 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-05
+- John Deere — 2 domains/URLs
+Total: 2 domains/URLs
+
+_Sources: arkadiyt/bounty-targets-data (24h git-history diff, base 2026-09-04 → head 2026-09-05) confirmed 2 new John Deere domains, cross-checked against the live snapshot (in_scope count 2017→2019, both new targets present) — bbscope.com independently logged the same 2 assets with real add timestamps, agreeing across two sources. arkadiyt also flagged a new program, DataCamp (Intigriti, 9 domain/wildcard assets), but the live Intigriti program page shows 2,119 submissions and €80,000 in payouts already — an established program, not a new one — so those 9 assets were discarded as pre-existing scope that bounty-targets-data only just started tracking, not new scope. bbscope.com's `since=1d` parameter is still non-functional server-side (fetched pages topped out at 2026-09-04T15:52Z with 1036 total pages available), so it was used only to corroborate arkadiyt's finds, not as a standalone source. Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but is still a first run in this environment (no snapshot persisted across sessions), so no assets are attributed to it today._
+
 ### 2026-09-04
 - WP Engine Bug Bounty — 6 domains/URLs
 - John Deere — 5 domains/URLs
