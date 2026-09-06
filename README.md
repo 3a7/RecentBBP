@@ -11,6 +11,11 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-06
+No new assets.
+
+_Sources: bbscope.com (reachable, `since=1d` still non-functional server-side, filtered by real event timestamps — only one in-window event, a GitHub repo, out of scope), arkadiyt/bounty-targets-data (24h git-history diff, base 2026-09-05 → head 2026-09-06, 0 new assets/programs), Chaos and disclose.io (no new programs/domains). FireBounty was reachable but is still a first run in this environment (no snapshot persisted across sessions), so no assets are attributed to it today._
+
 ### 2026-09-05
 - John Deere — 2 domains/URLs
 Total: 2 domains/URLs
