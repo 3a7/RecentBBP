@@ -11,6 +11,12 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-07
+- Basecamp — 1 domains/URLs
+Total: 1 domains/URLs
+
+_Sources: bbscope.com (reachable; `since=1d` still non-functional server-side — 40 pages fetched, newest real timestamp 2026-09-06T17:47:27Z, 0 events dated 2026-09-07 itself) and arkadiyt/bounty-targets-data (24h git-history diff, base 2026-09-06 → head 2026-09-07) independently agree on 1 new asset: `app.fizzy.do` on Basecamp's HackerOne program. Corroborated against Basecamp's public "Introducing Fizzy" product announcement (a newly launched 37signals product), supporting that this is genuinely new scope rather than newly-tracked pre-existing scope. Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but is still a first run in this environment (no snapshot persisted across sessions), so no assets are attributed to it today._
+
 ### 2026-09-06
 No new assets.
 
