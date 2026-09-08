@@ -1941,3 +1941,11 @@ www.johndeeredealerrewards.com
 asnpromcp-prod.deere.com
 biomcp.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com
 app.fizzy.do
+hosted.weblate.org
+www.ipbooster.com
+*.mercadolibre.com.ve
+*.tucarro.com.ve
+www.semrush.com
+*.randstad.*
+*.randstadrisesmart.*
+*.risesmart.*

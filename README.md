@@ -11,6 +11,15 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-08
+- Weblate — 1 domains/URLs
+- MercadoLibre — 3 domains/URLs
+- Semrush — 1 domains/URLs
+- Randstad — 3 domains/URLs
+Total: 8 domains/URLs
+
+_Sources: bbscope.com (reachable, `since=today`, 0 new additions — 2 program removals only) and arkadiyt/bounty-targets-data (24h git-history diff, base 2026-09-07 → head 2026-09-08) checked. arkadiyt's diff surfaced 14 candidate assets across 5 programs; after verification each was checked against its actual platform: `velocitize.com` (WP Engine, Intigriti) was discarded — the live program page now marks it explicitly out of scope/no bounty. Five more (`makeshift.film`, `payments.wpengine.com`, `torquemag.io`, `*.localwp.com`, `*.nitropack.io`, all WP Engine) were discarded as duplicates already recorded in this repo's 2026-09-04 entry, not new today. The remaining 8 — Weblate's `hosted.weblate.org`, MercadoLibre's `www.ipbooster.com`/`*.mercadolibre.com.ve`/`*.tucarro.com.ve`, Semrush's `www.semrush.com`, and Randstad's 3 wildcards — were kept; Randstad's 3 were independently confirmed live and in-scope on Intigriti, while the HackerOne-hosted ones (Weblate, MercadoLibre, Semrush) could not be re-verified live since HackerOne's program pages are JS-rendered SPAs with no accessible public scope API, so they rely on arkadiyt's official-API snapshot diff alone. Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable and returned 10 candidate TUI-group subdomains, but its local diff snapshot doesn't persist across sessions in this environment (first run again) and a live spot-check of one entry showed the underlying program was last crawled/dated 2026-06-22 — not today — so all 10 were discarded as unconfirmed._
+
 ### 2026-09-07
 - Basecamp — 1 domains/URLs
 Total: 1 domains/URLs
