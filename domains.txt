@@ -1949,3 +1949,6 @@ www.semrush.com
 *.randstad.*
 *.randstadrisesmart.*
 *.risesmart.*
+https://onchain.cc
+administracionpreaprobadomovil.cifin.co
+*.swaps.xyz

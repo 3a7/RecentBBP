@@ -11,6 +11,14 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-09
+- TransUnion LLC — 1 domains/URLs
+- MoonPay — 1 domains/URLs
+- Bitso Managed Bug Bounty Engagement — 1 domains/URLs
+Total: 3 domains/URLs
+
+_Sources: arkadiyt/bounty-targets-data (24h git-history diff, base 2026-09-08 → head 2026-09-09) surfaced 16 candidate assets across 6 programs plus 3 candidate new-program flags (Brave, Quizlet, SoundCloud). bbscope.com was reachable but its free-tier `updates` API is now masking the `target` field on most `added`/in-scope events with block-character placeholders (paywalled) — unusable for asset values, though program/category/timestamp metadata still comes through unmasked on a subset of records, which was enough to cross-check freshness. Per-asset verification against that live bbscope event stream: Quizlet's `*.quizlet.com` and all 8 SoundCloud assets showed the exact same "added" events re-firing identically every ~3 hours paired with a "removed PROGRAM" event each cycle — the same re-parse/churn artifact this repo has discarded before, not real new scope, so both programs (9 assets) were discarded; Taxwell VDP's 4 assets (`1040.com`, `securefilepro.com`, `taxwell.com`, `taxwell.org`) showed as "updated" events, not "added", so pre-existing scope, discarded. The remaining 3 — TransUnion's `administracionpreaprobadomovil.cifin.co`, MoonPay's `*.swaps.xyz`, and Bitso's `onchain.cc` — each showed a single non-repeating "added"+"in" event on bbscope independently corroborating arkadiyt's snapshot diff, and were kept. Brave's "new program" flag carried no domain/URL assets (only app-store/binary/code categories), so nothing to add there. Chaos and disclose.io checked, no new programs/domains today. FireBounty was reachable but returned the same TUI-group feed ids already checked and discarded in the 2026-09-08 entry (stale, last crawled 2026-06-22) — no new IDs above that range._
+
 ### 2026-09-08
 - Weblate — 1 domains/URLs
 - MercadoLibre — 3 domains/URLs
