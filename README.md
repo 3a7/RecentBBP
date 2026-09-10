@@ -11,6 +11,20 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-10
+- SimpliSafe — 17 domains/URLs
+- Expedia Group — 16 domains/URLs
+- maffashion — 11 domains/URLs
+- THG (hutgroup-public) — 9 domains/URLs
+- OpenAI — 6 domains/URLs
+- ABB — 2 domains/URLs
+- Essity — 2 domains/URLs
+- John Deere — 1 domains/URLs
+- codeclou — 1 domains/URLs
+Total: 65 domains/URLs
+
+_Sources: bbscope.com (reachable, 24h window by real event timestamps — `since=1d`/`since=today` params still unreliable server-side) surfaced 114 in-window "added"/in-scope events across 13 programs; after dropping mobile/hardware/non-asset rows, 76 candidate domains/URLs remained. arkadiyt/bounty-targets-data (git-history diff, base 2026-09-09 → head 2026-09-10) independently corroborated the bulk of these plus flagged Scopely as a new program. Chaos and disclose.io: 0 new programs/domains. FireBounty: reachable, first run in this environment (no persisted snapshot) returned 10 candidate TUI-group subdomains, but a live spot-check of one entry (`www.fritidsresor.se`) showed it was published to FireBounty on 2026-06-22, not today — all 10 discarded as unconfirmed, consistent with this repo's prior FireBounty entries. Every surviving candidate was then checked against its live platform: HackerOne programs (Essity, ABB, John Deere, Expedia Group, Scopely, Global Payments) were queried directly via HackerOne's public structured-scope data, which carries real per-asset `created_at` timestamps. This caught several false positives from the aggregator diff — Scopely's 3 wildcards (`created_at` 2017–2020, program merely newly *tracked*, not newly *scoped* — discarded per-asset per instructions even though the program itself was flagged new), Expedia's `*.hotwire.com`/`*.expediacruises.com`/`www.expediacruises.com`/`www.expediapartnercentral.com` (old `created_at`, discarded), `*.tigets.com`/`www.tigets.com` (a typo'd duplicate of `tiqets.com`, no longer present in live scope, discarded), and Global Payments' `globalpayments.com` (an `OTHER`-type company-name entry from 2021, not a domain scope item, discarded) — leaving Essity (2), ABB (2), John Deere (1), and 16 of Expedia's 22 candidates confirmed with `created_at` inside the last 24h. ABB and John Deere's specific assets (`ipec.co.uk`, `ipecus.com`, `jdldb.deere.com`) weren't found within the first 1,000 scope entries returned (both programs run 1,000+ item scopes) so weren't individually timestamp-verified, but are kept on two independent source agreement (bbscope's real timestamped event + arkadiyt's git-diff) with no contrary evidence found. Bugcrowd programs (codeclou, THG, maffashion, OpenAI, SimpliSafe) have no public unauthenticated scope API or embedded page data (JS-rendered SPA, same limitation noted in this repo's 2026-09-08 entry) so rely on bbscope's server-computed diff alone; `/engagements/umbrella-demo-vdp-pro`'s `www.umbrella.corp` was discarded as a Bugcrowd demo/practice program, not a real target._
+
 ### 2026-09-09
 - TransUnion LLC — 1 domains/URLs
 - MoonPay — 1 domains/URLs
