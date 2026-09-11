@@ -1968,3 +1968,11 @@ administracionpreaprobadomovil.cifin.co
 *.stayz.com.au
 *.tiqets.com
 www.tiqets.com
+auth.forms-formulaires.alpha.canada.ca
+*.bmc.nl
+www.tempo-team.be
+www.tempo-team.com
+www.tempo-team.nl
+*.tempo-team.*
+*.yacht.nl
+*.gantner.cloud
