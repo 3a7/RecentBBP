@@ -12,11 +12,9 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-09-14
-- SEEK — 14 domains/URLs
-- Upwork — 3 domains/URLs
-Total: 17 domains/URLs
+No new assets.
 
-_Sources: bbscope.com and arkadiyt/bounty-targets-data agreed on two new Bugcrowd launches, SEEK (14 assets) and Upwork (3) — confirmed via arkadiyt's snapshot diff, the only check available since Bugcrowd's pages are login-gated. 3 Wyze "added" events (already in the prior snapshot), an Atlassian-Marketplace listing URL, and 3 GitHub repo links were discarded as not new/out of scope. Chaos and disclose.io: 0 new; FireBounty's 10 TUI ids were stale (2026-06-22 crawl)._
+_Sources: bbscope.com and arkadiyt/bounty-targets-data flagged SEEK and Upwork as new Bugcrowd launches, but without live access to Bugcrowd's own platform this could not be independently confirmed, so both were pulled back out as false positives (same bar as 2026-09-10's held-back Bugcrowd candidates). 3 Wyze "added" events (already in the prior snapshot), an Atlassian-Marketplace listing URL, and 3 GitHub repo links were discarded as not new/out of scope. Chaos and disclose.io: 0 new; FireBounty's 10 TUI ids were stale (2026-06-22 crawl)._
 
 ### 2026-09-13
 No new assets.
