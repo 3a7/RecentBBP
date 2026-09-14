@@ -11,6 +11,13 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-14
+- SEEK — 14 domains/URLs
+- Upwork — 3 domains/URLs
+Total: 17 domains/URLs
+
+_Sources: bbscope.com (reachable, 24h window by real event timestamps) and arkadiyt/bounty-targets-data (24h git-history diff, base 2026-09-13 → head 2026-09-14) agreed on two new Bugcrowd program launches, SEEK and Upwork — confirmed genuinely new via arkadiyt's line-diff of `domains.txt`/`wildcards.txt` (absent at base, present at head) and `new_programs`, the only verification bar available since Bugcrowd exposes no public scope API and its pages are login-gated JS SPAs (same precedent as 2026-09-12). Of SEEK's scope table, 14 domain/wildcard/URL entries were kept and 4 app-store (iOS/Android) links discarded; of Upwork's, 3 were kept (`https://www.upwork.com`, `www.upwork.com/api`, `api.upwork.com/graphql`) and the rest discarded as non-domain feature-name rows ("Direct Contracts", "Marketplace Portal", etc.), a mobile app, and a hardware device. bbscope also reported 3 Wyze Bugcrowd "added" events (`auth.wyze.com`, `my.wyze.com`, `api.wyzecam.com`), but all three were already present in bounty-targets-data's pre-window snapshot — a re-fired, not new, event — so discarded. One Atlassian-Marketplace-app listing URL (Xopero) and three GitHub repo links (Freedom of the Press) were discarded as out of scope per established precedent. Chaos and disclose.io (24h git-history diff): 0 new programs/domains. FireBounty was reachable and returned its usual 10 TUI-group feed ids, but a live spot-check (`www.fritidsresor.se`) again showed a 2026-06-22 crawl date, not today — all 10 discarded as stale._
+
 ### 2026-09-13
 No new assets.
 

@@ -1,0 +1,17 @@
+*.seek.com
+https://*.employer.seek.com
+*.seekpass.co
+https://*.jobsdb.com
+https://*.jobstreet.com
+https://seekcdn.com
+https://*.myseek.xyz
+*.outfra.xyz
+*.skinfra.xyz
+https://graphql.seek.com
+https://auth.seek.com
+*.jobapi.net
+*.sol-data.com
+*.aips-internal.com
+https://www.upwork.com
+www.upwork.com/api
+api.upwork.com/graphql
