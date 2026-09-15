@@ -11,6 +11,15 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-15
+- Superbank - Public Bug Bounty Program — 4 domains/URLs
+- TrueLayer VDP — 6 domains/URLs
+- ADAC Vulnerability Disclosure Program — 3 IP/CIDR
+- MercadoLibre — 1 domains/URLs
+- Superbet — 1 domains/URLs
+- Bolt Technology OÜ — 1 domains/URLs
+Total: 13 domains/URLs, 3 IP/CIDR
+
 ### 2026-09-14
 No new assets.
 
