@@ -1,0 +1,15 @@
+patchflow.deere.com
+india-sam-spm-api-prod.channel-dss-r1-india-spm-prod-vpn.ap.e06.c01.johndeerecloud.com
+https://app.ecwid.com/api/v3
+https://store.retail.lightspeed.app
+https://payment-connectors.vendhq.com
+https://developers.retail.lightspeed.app
+*.contentsquare.com
+https://mobile-production.content-square.net
+https://m.csqtrk.net
+https://s.contentsquare.net
+http://heartland.us
+test.revaluemycard.com
+testadmin.revaluemycard.com
+testmobile.revaluemycard.com
+testprovider.revaluemycard.com
