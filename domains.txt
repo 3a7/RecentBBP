@@ -2005,3 +2005,14 @@ test.revaluemycard.com
 testadmin.revaluemycard.com
 testmobile.revaluemycard.com
 testprovider.revaluemycard.com
+isg-digital-context-extraction-mcp.isg-et-tag-qual-floating.us.e01.c01.johndeerecloud.com
+resiliency-api.supplymgmt-compliance-risk-devl-vpn2.us.e15.c01.johndeerecloud.com
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
+metrocompetitions.com
+*.gulp.ch
+*.gulp.de
+www.gulp-shop.de
+demo.tendertracker.de
