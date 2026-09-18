@@ -11,6 +11,16 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-18
+- Uniti — 13 domains/URLs
+- Faraday, Inc. — 4 domains/URLs
+- Expedia Group Bug Bounty — 2 domains/URLs
+- Infomaniak Bug Bounty program — 5 domains/URLs
+- TrueLayer — 7 domains/URLs
+- Venly — 7 domains/URLs
+- Posten Bring Responsible Disclosure — 5 domains/URLs
+Total: 43 domains/URLs
+
 ### 2026-09-17
 - John Deere — 2 domains/URLs
 - d-you App & German EUDI Wallet Ecosystem — 4 domains/URLs
