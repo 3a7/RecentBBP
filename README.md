@@ -11,6 +11,21 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-19
+- TheFork — 13 domains/URLs
+- Dell Technologies Application Bug Bounty — 5 domains/URLs
+- TransUnion LLC — 4 domains/URLs
+- Opus Guard Marketplace — 4 domains/URLs
+- OpenSea — 3 domains/URLs
+- Hostinger — 3 domains/URLs
+- John Deere — 2 domains/URLs
+- codecentric Marketplace Bug Bounty — 1 domains/URLs
+- Pexels — 1 domains/URLs
+- aelbox Marketplace Bug Bounty — 1 domains/URLs
+- Infomaniak Bug Bounty program — 1 domains/URLs
+- Driessen Vulnerability Disclosure Program — 1 domains/URLs
+Total: 39 domains/URLs
+
 ### 2026-09-18
 - Uniti — 13 domains/URLs
 - Faraday, Inc. — 4 domains/URLs
