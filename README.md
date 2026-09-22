@@ -12,13 +12,13 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-09-22
-- Afterpay Bug Bounty Program — 12 domains/URLs
-- lululemon — 8 domains/URLs
-- Vercel — 6 domains/URLs
-- Unisys Managed Bug Bounty Engagement — 2 domains/URLs
-- Cash App — 1 domains/URLs
-- Challenge 0926 — 1 domains/URLs
-Total: 30 domains/URLs
+- Afterpay Bug Bounty Program (BB) — 12 domains/URLs
+- lululemon (BB) — 8 domains/URLs
+- Vercel (BB) — 4 domains/URLs, 2 Wildcard
+- Unisys Managed Bug Bounty Engagement (BB) — 2 Wildcard
+- Cash App (BB) — 1 Wildcard
+- Challenge 0926 (VDP) — 1 domains/URLs
+Total: 25 domains/URLs, 5 Wildcard
 
 ### 2026-09-21
 No new assets.
