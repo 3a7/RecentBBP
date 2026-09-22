@@ -11,6 +11,15 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-22
+- Afterpay Bug Bounty Program — 12 domains/URLs
+- lululemon — 8 domains/URLs
+- Vercel — 6 domains/URLs
+- Unisys Managed Bug Bounty Engagement — 2 domains/URLs
+- Cash App — 1 domains/URLs
+- Challenge 0926 — 1 domains/URLs
+Total: 30 domains/URLs
+
 ### 2026-09-21
 No new assets.
 
