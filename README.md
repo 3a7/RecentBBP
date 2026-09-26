@@ -11,6 +11,14 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-26
+- Fiserv (VDP - HackerOne) — 46 domains/URLs
+- LATAM Airlines (VDP - HackerOne) — 1 domains/URLs, 30 Wildcard
+- Kaltura (BB - HackerOne) — 2 domains/URLs
+- 8x8 (BB - HackerOne) — 1 domains/URLs, 1 Wildcard
+- John Deere (VDP - HackerOne) — 1 domains/URLs
+Total: 51 domains/URLs, 31 Wildcard
+
 ### 2026-09-25
 - Live Nation (BB) — 22 domains/URLs
 - Veriff Bug Bounty (BB) — 10 domains/URLs, 1 Wildcard
