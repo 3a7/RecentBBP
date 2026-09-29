@@ -11,6 +11,13 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-29
+- Fiserv (VDP - HackerOne) — 290 domains/URLs
+- Marriott Bug Bounty Program (BB - HackerOne) — 1 domains/URLs
+- PhonePe (VDP - HackerOne) — 1 Wildcard
+- Temu (BB - HackerOne) — 1 domains/URLs
+Total: 292 domains/URLs, 1 Wildcard
+
 ### 2026-09-28
 No new assets.
 
