@@ -11,6 +11,12 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-09-30
+- DANA Bug Bounty Program (BB - YesWeHack) — 1 domains/URLs
+- Fiserv (VDP - HackerOne) — 3 domains/URLs
+- Walt.io (BB - HackerOne) — 9 domains/URLs
+Total: 13 domains/URLs
+
 ### 2026-09-29
 - Fiserv (VDP - HackerOne) — 290 domains/URLs
 - Marriott Bug Bounty Program (BB - HackerOne) — 1 domains/URLs
