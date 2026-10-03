@@ -11,6 +11,14 @@ Out-of-scope items and non-network assets (mobile apps, source repos, hardware, 
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-03
+- inDrive (BB - HackerOne) — 110 domains/URLs
+- Fiserv (VDP - HackerOne) — 47 domains/URLs
+- UZ Leuven (BB - Intigriti) — 24 domains/URLs, 7 Wildcard
+- Visma (BB - Intigriti) — 14 domains/URLs
+- NBA Public Bug Bounty (BB - HackerOne) — 13 domains/URLs
+Total: 208 domains/URLs, 0 IP/CIDR, 7 Wildcard
+
 ### 2026-10-02
 - No new assets.
 
