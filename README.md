@@ -1,14 +1,37 @@
 # RecentBBP
 
-Tracks bug bounty program scope assets — domains, wildcard domains, URLs, IPs, and CIDR ranges — newly added to public bug bounty and VDP program scopes, aggregated on a recurring schedule from free, open-source scope-data sources (arkadiyt/bounty-targets-data, bbscope.com, FireBounty, Chaos, disclose.io).
+Tracks bug bounty program scope assets — domains, wildcard domains, URLs, IPs, and CIDR ranges — added or updated **today (UTC)** in public bug bounty and VDP programs, read directly from each platform on a recurring schedule.
 
-Out-of-scope items and non-network assets (mobile apps, source repos, hardware, SaaS tenants, etc.) are excluded — only domains, wildcards, URLs, IPs, and CIDR ranges are tracked.
+Out-of-scope items and non-network assets (mobile apps, app-store IDs, source repos, smart contracts, binaries, hardware, SaaS tenants, etc.) are excluded — only domains, wildcards, URLs, IPs, and CIDR ranges are tracked.
+
+## Sources
+
+Collected straight from the platforms (no third-party aggregators):
+
+HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof, GoBugFree.
+
+## Methodology
+
+- **Public programs only** — private / invite-only programs are never recorded.
+- **Current day only (UTC)** — an asset counts only if its scope entry was added or updated today. A program reactivating after suspension is not new; only a real scope-diff addition counts.
+- **HackerOne** — public GraphQL: programs updated today, then every program's structured scopes filtered to `created_at` / `updated_at` of today.
+- **Intigriti** — "new domains version added" activities from today; the previous and new domain versions are diffed (in-scope tiers only).
+- **YesWeHack** — programs updated today; the two newest scope versions are diffed.
+- **Bugcrowd** — public engagements flagged new/updated, then today's changelog scope is diffed against the previous one (in-scope groups only).
+- **Immunefi** — per-asset `addedAt` of today, website/application assets only.
+- **HackenProof** — no dates are published, so the full in-scope set is snapshot-diffed against the previous run (first run only seeds the snapshot).
+- **GoBugFree** — scope is prose without dates: snapshot-diffed and manual-review only; new items go to `review/` and never to the master lists.
+- **Filtering** — values must look like a host/URL/wildcard/IP/CIDR; they are lowercased, trailing slashes stripped, and deduped on exact match.
+- **Verification** — every asset must be provably new on its program's platform; anything that can't be proven new is discarded.
+- A platform that is unreachable or has expired credentials is logged in that day's entry rather than reported as "no new assets".
 
 ## Files
 
 - `domains.txt` — master, append-only, deduplicated list of every in-scope domain / wildcard domain / URL seen across all runs. One asset per line, no other content.
 - `ips.txt` — master, append-only, deduplicated list of every in-scope IP / CIDR range seen across all runs. One asset per line, no other content.
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
+- `review/gobugfree-YYYY-MM-DD.txt` — GoBugFree items awaiting manual vetting.
+- `state/*.txt` — per-platform snapshots used for diffing (HackenProof, GoBugFree).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-05
