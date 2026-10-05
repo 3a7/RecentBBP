@@ -20,7 +20,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof, GoBugFree.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-05
-- No new assets.
+- enjin (BB - HackerOne) — 1 domains/URLs
+- finnair_vdp (VDP - HackerOne) — 25 domains/URLs, 1 IP/CIDR
+- indrive (BB - HackerOne) — 35 domains/URLs
+Total: 61 domains/URLs, 1 IP/CIDR
 
 ### 2026-10-04
 - No new assets.
