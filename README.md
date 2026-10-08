@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof, GoBugFree.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-08
-No new assets.
+- ens (BB - Immunefi) — 2 domains/URLs
+Total: 2 domains/URLs, 0 IP/CIDR
 
 ### 2026-10-07
 No new assets.

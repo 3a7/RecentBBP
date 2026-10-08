@@ -3056,3 +3056,5 @@ wd1-gw-cf.euce1.indriverapp.com
 wlr-cf.euce1.indriverapp.com
 wlr-scf.euce1.indriverapp.com
 www.finnair.com
+https://basics.ensdao.org
+https://docs.ens.domains
