@@ -1,0 +1,5 @@
+https://chs.cosmos.esa.int
+https://datalabs.esa.int
+https://euclid.dataspace.esa.int
+https://cosmos.esa.int
+https://science.esa.int

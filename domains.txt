@@ -3058,3 +3058,8 @@ wlr-scf.euce1.indriverapp.com
 www.finnair.com
 https://basics.ensdao.org
 https://docs.ens.domains
+https://chs.cosmos.esa.int
+https://datalabs.esa.int
+https://euclid.dataspace.esa.int
+https://cosmos.esa.int
+https://science.esa.int
