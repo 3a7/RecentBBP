@@ -22,7 +22,7 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof, GoBugFree.
 ### 2026-10-09
 - European Space Agency (ESA) VDP (BB - Intigriti) — 5 domains/URLs
 Total: 5 domains/URLs
-- GoBugFree not checked this run.
+- GoBugFree — 61 assets pending manual review
 
 ### 2026-10-09
 No new assets.
