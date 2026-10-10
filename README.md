@@ -8,25 +8,22 @@ Out-of-scope items and non-network assets (mobile apps, app-store IDs, source re
 
 Collected straight from the platforms (no third-party aggregators):
 
-HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof, GoBugFree.
+HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ## Files
 
 - `domains.txt` — master, append-only, deduplicated list of every in-scope domain / wildcard domain / URL seen across all runs. One asset per line, no other content.
 - `ips.txt` — master, append-only, deduplicated list of every in-scope IP / CIDR range seen across all runs. One asset per line, no other content.
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
-- `review/gobugfree-YYYY-MM-DD.txt` — GoBugFree items awaiting manual vetting.
-- `state/*.txt` — per-platform snapshots used for diffing (HackenProof, GoBugFree).
+- `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-10
 No new assets.
-- GoBugFree — 3 assets pending manual review
 
 ### 2026-10-09
 - European Space Agency (ESA) VDP (VDP - Intigriti) — 5 domains/URLs
 Total: 5 domains/URLs
-- GoBugFree — 61 assets pending manual review
 
 ### 2026-10-09
 No new assets.
