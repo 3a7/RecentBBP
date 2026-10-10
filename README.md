@@ -19,6 +19,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof, GoBugFree.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof, GoBugFree).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-10
+No new assets.
+- GoBugFree — 8 assets pending manual review
+
 ### 2026-10-09
 - European Space Agency (ESA) VDP (VDP - Intigriti) — 5 domains/URLs
 Total: 5 domains/URLs

@@ -12,6 +12,11 @@
 *.threema.ch
 *.univote.ch
 *.ylah.ch
+193.134.38.32/27
+194.209.51.176/29
+195.65.247.128/28
+2.x
+4.0
 accotex.com
 acs.opentech.com/3ds/sbps
 api.acs.opentech.com/3ds/sbps
@@ -32,6 +37,7 @@ cf.openpay010.opentech.com/swissbankers
 ch.swissbankers.mycard
 cms.gobugfree.com
 dev.netplus.tv
+e.g
 eid.li
 emv.acs.opentech.com/3ds/sbps/areq
 gateway.threema.ch
@@ -85,6 +91,8 @@ ssm.ch
 storeidentifier.openpay.swissbankers.ch
 suessen.com
 temco.de
+v4.0
+v4.1
 work.threema.ch
 www.placeb.ch
 www.securepayment-swissbankers.ch
