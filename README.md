@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-10-12
 - Citrea Web & Apps (BB - HackenProof) — 2 domains/URLs
-Total: 2 domains/URLs
+- Pine Labs Bug Bounty Program (BB - YesWeHack) — 2 domains/URLs
+Total: 4 domains/URLs
 Note: GoBugFree snapshot seeded this run (first run; no review file).
 
 ### 2026-10-11
