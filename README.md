@@ -18,6 +18,12 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-13
+- Twilio (BB - HackerOne) — 11 domains/URLs
+- Bolt Technology OÜ (BB - Bugcrowd) — 1 domains/URLs
+- Magic Apps Marketplace Bug Bounty (BB - Bugcrowd) — 1 domains/URLs
+Total: 13 domains/URLs
+
 ### 2026-10-12
 - Citrea Web & Apps (BB - HackenProof) — 2 domains/URLs
 - Pine Labs Bug Bounty Program (BB - YesWeHack) — 2 domains/URLs
