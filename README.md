@@ -19,6 +19,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-15
+No new assets.
+GoBugFree unreachable (Cloudflare block) — not checked this run.
+
+### 2026-10-15
 - ZMO Exchange (BB - HackenProof) — 1 domains/URLs, 1 Wildcard
 Total: 1 domains/URLs, 1 Wildcard
 
