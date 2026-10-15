@@ -3080,3 +3080,5 @@ isagent.dev
 smtp.sendgrid.net
 tsock.us1.twilio.com
 twilio.com
+https://www.zmo.com
+*.zmo.com

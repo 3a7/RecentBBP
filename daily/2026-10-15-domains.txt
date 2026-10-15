@@ -1,0 +1,2 @@
+https://www.zmo.com
+*.zmo.com

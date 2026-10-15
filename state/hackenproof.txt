@@ -1,4 +1,5 @@
 *.bitkan.com
+*.zmo.com
 app.superposition.finance
 https://api.cronos.com
 https://api.flipster.io
@@ -6,8 +7,6 @@ https://app.flipster.io
 https://bitkan.com
 https://bitkubacademy.com
 https://citrea.xyz/batch-explorer
-https://docs.citrea.xyz
-https://explorer.mainnet.citrea.xyz
 https://flipster.io
 https://starkgate.starknet.io
 https://toppjirayut.com
@@ -15,3 +14,4 @@ https://www.bitkubcapital.com
 https://www.bitkubventures.com
 https://www.hotcoin.com
 https://www.staygold.app
+https://www.zmo.com
