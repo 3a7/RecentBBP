@@ -25,13 +25,16 @@ auth.secure.swissbankers.ch
 backend.gobugfree.com
 barmag.com
 billing.threema.ch
+bounty1-1.shop.abanet.io
 bracker.ch
 broadcast.threema.ch
 caius.dev.netplus.ch
 cf.openpay010.opentech.com/swissbankers
 ch.swissbankers.mycard
 cms.gobugfree.com
+com.kg.placeb
 dev.netplus.tv
+digital.bdo.ch
 eid.li
 emv.acs.opentech.com/3ds/sbps/areq
 gateway.threema.ch
@@ -75,6 +78,7 @@ openpay010.opentech.com/sbpschallengemanager
 openpay010.opentech.com/swissbankers
 openpay011.opentech.com/swissbankers
 partnerhub.swissbankers.ch
+portal.bdo.ch/fundwareportal
 pubmauthapi.acs.opentech.com/3ds/console/sbps
 rieter.com
 sbpsadminportal.opentech.com
@@ -85,6 +89,8 @@ ssm.ch
 storeidentifier.openpay.swissbankers.ch
 suessen.com
 temco.de
+test.bdo.ch
+to-otsc.opentech.com
 work.threema.ch
 www.placeb.ch
 www.securepayment-swissbankers.ch
