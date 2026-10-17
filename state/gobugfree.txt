@@ -12,6 +12,7 @@
 *.threema.ch
 *.univote.ch
 *.ylah.ch
+0.threema.ch
 accotex.com
 acs.opentech.com/3ds/sbps
 api.acs.opentech.com/3ds/sbps
@@ -31,9 +32,11 @@ caius.dev.netplus.ch
 cf.openpay010.opentech.com/swissbankers
 ch.swissbankers.mycard
 cms.gobugfree.com
+cyberunity.io
 dev.netplus.tv
 eid.li
 emv.acs.opentech.com/3ds/sbps/areq
+forthub.io
 gateway.threema.ch
 gobugfree.com
 graf-companies.com
@@ -66,6 +69,7 @@ https://protime.bdo.ch
 https://rm-digital.bdo.ch
 https://simplesign.fidentity.ch
 https://tamaro.raisenow.com
+hypotheke.ch
 id.gobugfree.com
 my.dev.netplus.ch
 my.sweez.ch
@@ -84,7 +88,12 @@ socket.prod.placeb.ch
 ssm.ch
 storeidentifier.openpay.swissbankers.ch
 suessen.com
+swissbankers.ch
+synedra.com
 temco.de
+threema.ch
+univote.ch
 work.threema.ch
 www.placeb.ch
 www.securepayment-swissbankers.ch
+ylah.ch
