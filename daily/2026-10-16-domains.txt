@@ -1,0 +1,8 @@
+https://profile.hackthebox.com
+https://range.hackthebox.ai
+*uat.marriott.com
+reservations.all-inclusive.marriott.com
+uat.marriott.com
+mercadolivreexperience.mercadolivre.com.br
+*.modoblack.mercadolivre.com.br
+fullbarhomologa.modoblackfullbar.com.br

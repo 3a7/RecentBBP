@@ -25,14 +25,23 @@ No new assets.
 No new assets.
 
 ### 2026-10-16
-No new assets.
+- Hack The Box (VDP - HackerOne) — 2 domains/URLs
+- Marriott (BB - HackerOne) — 2 domains/URLs, 1 Wildcard
+- MercadoLibre (BB - HackerOne) — 2 domains/URLs, 1 Wildcard
+Total: 6 domains/URLs, 2 Wildcard
 
 ### 2026-10-15
 - ZMO Exchange (BB - HackenProof) — 1 domains/URLs, 1 Wildcard
-Total: 1 domains/URLs, 1 Wildcard
+- 1win (BB - HackerOne) — 2 domains/URLs
+- Expedia Group Bug Bounty (BB - HackerOne) — 1 Wildcard
+- MercadoLibre (BB - HackerOne) — 5 Wildcard
+Total: 3 domains/URLs, 7 Wildcard
 
 ### 2026-10-14
-No new assets.
+- MercadoLibre (BB - HackerOne) — 1 Wildcard
+- DIB VDP (VDP - HackerOne) — 41 domains/URLs
+- ION (VDP - HackerOne) — 1 domains/URLs
+Total: 42 domains/URLs, 1 Wildcard
 
 ### 2026-10-13
 - Twilio (BB - HackerOne) — 11 domains/URLs

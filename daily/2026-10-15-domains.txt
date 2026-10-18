@@ -1,2 +1,10 @@
 https://www.zmo.com
 *.zmo.com
+1wintoken.com
+1wtoken.com
+*.expedia.biz
+*.mercadolibre.cl
+*.mercadolibre.com.ar
+*.mercadolibre.com.co
+*.mercadolibre.com.mx
+*.mercadolibre.com.uy
