@@ -1,0 +1,2 @@
+*.hicloudcam.com
+*.hikops.com

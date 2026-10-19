@@ -19,7 +19,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-19
-No new assets.
+- Ezviz - Bug Bounty Program (BB - YesWeHack) — 2 Wildcard
+Total: 2 Wildcard
 
 ### 2026-10-18
 No new assets.
