@@ -3143,3 +3143,6 @@ mercadolivreexperience.mercadolivre.com.br
 fullbarhomologa.modoblackfullbar.com.br
 *.hicloudcam.com
 *.hikops.com
+kartaview.org
+https://www.spontaan.nl
+www.socialdeal.nl/blog

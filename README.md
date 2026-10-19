@@ -20,7 +20,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-10-19
 - Ezviz - Bug Bounty Program (BB - YesWeHack) — 2 Wildcard
-Total: 2 Wildcard
+- Grab (BB - HackerOne) — 1 domains/URLs
+- Social Deal (BB - Intigriti) — 2 domains/URLs
+- YesWeHack: login failed (invalid credentials); public programs were checked without auth.
+Total: 3 domains/URLs, 2 Wildcard
 
 ### 2026-10-18
 No new assets.
