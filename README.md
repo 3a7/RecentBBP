@@ -19,8 +19,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-20
-No new assets.
-- YesWeHack: login failed (invalid credentials); public programs were checked without auth.
+- Banco Plata (BB - HackerOne) — 2 domains/URLs
+Total: 2 domains/URLs
 
 ### 2026-10-19
 - Ezviz - Bug Bounty Program (BB - YesWeHack) — 2 Wildcard
