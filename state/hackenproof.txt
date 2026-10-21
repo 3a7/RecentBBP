@@ -78,6 +78,7 @@ api.kuna.io
 api.kunapay.io
 api.poloniex.com
 api2.poloniex.com
+app.coindepo.com
 app.lachain.io
 app.myetherwallet.com
 app.nado.xyz
@@ -115,9 +116,11 @@ geckoterminal.com
 global.bitexen.com
 global.bittrex.com
 http://exzo.network
+http://vooxhelp.voox.com
 https://*.backpack.exchange
 https://*.bluefin.io
 https://aax.com
+https://activity.voox.com
 https://admin-panel-dev.sweedpos.com/*
 https://admin-panel-sales.sweedpos.com/*
 https://admin-panel.curaleaf.sweedpos.com/*
@@ -126,6 +129,7 @@ https://admin-panel.prime.sweedpos.com/*
 https://admin-panel.sweedpos.com/*
 https://affiliate.cryptology.com
 https://affiliate.tothemoon.com
+https://affiliates.voox.com
 https://agent.alphax.com
 https://alpha.yellow.org
 https://alphasec.trade
@@ -179,6 +183,7 @@ https://bitstorage.finance
 https://bittrex.github.io/api/v3
 https://bkexapi.github.io/docs/api_zh.htm
 https://blastscan.io/address/0xf62e7c831fc41c93b61c04c24152c433d6553236
+https://blog.voox.com
 https://blog.whitebit.com
 https://bluefin.io
 https://bridge.kubchain.com
@@ -191,6 +196,7 @@ https://cashier-sales.sweedpos.com/*
 https://cashier.sweedpos.com/*
 https://chrome.google.com/webstore/detail/flow-core/hpclkefagolihohboafpheddmmgdffjm
 https://citrea.xyz/batch-explorer
+https://coindepo.com
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://crash.fun
 https://cronosid.xyz
@@ -219,6 +225,7 @@ https://flipster.io
 https://fmcpay.com
 https://fulcrom.finance
 https://futures.coinstore.com/api
+https://futures.voox.com
 https://futuresapi.coinw.com
 https://github.com/asymetrix-protocol/contracts
 https://github.com/bitrue/bitrue-official-api-docs
@@ -242,8 +249,11 @@ https://layer3.xyz
 https://letsexchange.io
 https://letsexchange.io/swap
 https://levex.com
+https://m.voox.com
+https://mfutures.voox.com
 https://minted.network
 https://moonlander.trade
+https://motc.voox.com
 https://multipli.fi
 https://naviprotocol.io
 https://near.foundation
@@ -254,6 +264,7 @@ https://noones.com
 https://ofza.com
 https://online.raiffeisen.ua
 https://orby.network
+https://otc.voox.com
 https://oyster.synfutures.com
 https://p2pb2b.com
 https://pandora.digital
@@ -275,6 +286,8 @@ https://starkgate.starknet.io
 https://status.app/api/download/linux
 https://store.sweedpos.com/*
 https://superearn.io
+https://support.voox.com
+https://t.voox.com
 https://tectonic.finance
 https://test.nicehash.com
 https://testflight.apple.com/join/djeqfkqv
@@ -287,6 +300,8 @@ https://uacatsdivision.com
 https://us.gate.com
 https://veno.finance
 https://virtuswap.io
+https://voox.com
+https://vooxhelp.voox.com
 https://vvs.finance
 https://web.raiffeisen.ua
 https://www.aax.com/apidoc/index.html#introduction
@@ -304,7 +319,9 @@ https://www.bitkubnft.com
 https://www.bitkubnft.io
 https://www.bitkubventures.com
 https://www.bitunix.com
+https://www.blog.voox.com
 https://www.btse.com
+https://www.coinex.com
 https://www.coinex.com/en
 https://www.coinw.com
 https://www.cube.exchange
