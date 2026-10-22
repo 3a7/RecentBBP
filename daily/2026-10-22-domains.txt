@@ -4,3 +4,10 @@ https://api.enterprise.sandbox.uphold.com/market-pulse
 https://api.enterprise.sandbox.uphold.com/topper
 https://api.enterprise.sandbox.uphold.com/trading
 https://api.enterprise.sandbox.uphold.com/widgets
+ui-assets.cloud.databricks.com
+login.databricks.com
+linksp.jdiberica.deere.com
+https://ebc2test.cybersource.com/settings
+https://app.redstone.finance
+https://docs.redstone.finance
+https://www.redstone.finance

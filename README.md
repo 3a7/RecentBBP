@@ -20,7 +20,11 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-10-22
 - Uphold (BB - Intigriti) — 6 domains/URLs
-Total: 6 domains/URLs
+- Databricks (BB - HackerOne) — 2 domains/URLs
+- John Deere (VDP - HackerOne) — 1 domains/URLs
+- Visa (BB - HackerOne) — 1 domains/URLs
+- RedStone Web (BB - HackenProof) — 3 domains/URLs
+Total: 13 domains/URLs
 
 ### 2026-10-21
 - MoonPay (BB - HackerOne) — 1 Wildcard
