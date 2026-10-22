@@ -19,7 +19,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-22
-No new assets.
+- Uphold (BB - Intigriti) — 6 domains/URLs
+Total: 6 domains/URLs
 
 ### 2026-10-21
 - MoonPay (BB - HackerOne) — 1 Wildcard

@@ -3149,3 +3149,9 @@ www.socialdeal.nl/blog
 people.plata.team
 plata.co
 *.dflow.net
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
