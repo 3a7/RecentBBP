@@ -3162,3 +3162,11 @@ https://ebc2test.cybersource.com/settings
 https://app.redstone.finance
 https://docs.redstone.finance
 https://www.redstone.finance
+*.marcus.com
+eetd-pdf.deere.com
+client-api.arkoselabs.com
+portal.arkoselabs.com
+verify.arkoselabs.com
+https://mcp.supabase.com/mcp
+idp-url.nexuzhealth.be
+*.kniftrygghet.no

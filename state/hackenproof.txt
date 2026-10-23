@@ -380,10 +380,6 @@ whitebit.com
 ws-web.poloniex.com
 ws.blockchain.info
 ws.poloniex.com
-wss://ws-futures.coinstore.com/socket.io
-wss://ws.backpack.exchange
-wss://ws.coinstore.com/s/ws
-wss://ws.nonkyc.io
 www.bitexen.com
 www.bkex.com
 www.citex.info
