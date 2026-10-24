@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-24
+- Exodus (BB - HackerOne) — 1 domains/URLs
+Total: 1 domains/URLs
+
 ### 2026-10-23
 - Arkose Labs (BB - HackerOne) — 3 domains/URLs
 - Goldman Sachs (BB - HackerOne) — 1 Wildcard

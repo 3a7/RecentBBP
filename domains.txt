@@ -3170,3 +3170,4 @@ verify.arkoselabs.com
 https://mcp.supabase.com/mcp
 idp-url.nexuzhealth.be
 *.kniftrygghet.no
+agents.exodus.com
