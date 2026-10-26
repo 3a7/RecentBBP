@@ -13,7 +13,6 @@
 *.bitkub.com
 *.bitmart.com
 *.bitrue.com
-*.bittrex.com
 *.blofin.com
 *.cetus.zone
 *.coinmetro.com
@@ -56,7 +55,6 @@
 *.tothemoon.com
 *.white.market
 *.zmo.com
-*.zofai.io
 1inch.com
 1inch.network
 admin.kunapay.io
@@ -113,7 +111,6 @@ fapi.bitunix.com
 faucet.chainstack.com
 geckoterminal.com
 global.bitexen.com
-global.bittrex.com
 http://exzo.network
 https://*.backpack.exchange
 https://*.bluefin.io
@@ -156,7 +153,6 @@ https://app.evaa.finance
 https://app.film.io
 https://app.flipster.io
 https://app.idos.network
-https://app.init.capital
 https://app.monday.trade
 https://app.multipli.fi
 https://app.playground.idos.network
@@ -339,7 +335,6 @@ https://www.zetachain.com/docs
 https://www.zetachain.com/ecosystem
 https://www.zmo.com
 https://www.zoomex.com
-https://zofai.io
 id.ton.org
 id.ton.org/api
 id.ton.org/v1
@@ -374,7 +369,6 @@ trade.cex.io
 travelfrom.fr
 v3.polo-static.com
 wallet.cex.io
-web.bittrex.com
 wgc.polo-static.com
 whitebit.com
 ws-web.poloniex.com
