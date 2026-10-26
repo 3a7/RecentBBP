@@ -19,7 +19,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-10-26
-No new assets.
+- Ferrero (VDP - HackerOne) — 70 domains/URLs
+- John Deere (VDP - HackerOne) — 2 domains/URLs
+Total: 72 domains/URLs
 
 ### 2026-10-25
 No new assets.
