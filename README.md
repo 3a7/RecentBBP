@@ -18,6 +18,19 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-27
+- Cloudflare Public Bug Bounty (BB - HackerOne) — 1 domains/URLs
+- Zurich Insurance (VDP - HackerOne) — 1 Wildcard
+- KOHO (BB - HackerOne) — 4 domains/URLs
+- John Deere (VDP - HackerOne) — 2 domains/URLs
+- Visa (BB - HackerOne) — 1 domains/URLs
+- Bose (VDP) (VDP - HackerOne) — 1 domains/URLs, 1 Wildcard
+- Henkel (VDP - HackerOne) — 9 domains/URLs
+- Thales Cyber Security Products Bug Bounty (BB - Bugcrowd) — 2 domains/URLs
+- OpenAI (BB - Bugcrowd) — 1 domains/URLs
+- ENS (BB - Immunefi) — 1 domains/URLs
+Total: 22 domains/URLs, 2 Wildcard
+
 ### 2026-10-26
 - Ferrero (VDP - HackerOne) — 70 domains/URLs
 - John Deere (VDP - HackerOne) — 2 domains/URLs
