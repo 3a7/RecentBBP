@@ -55,7 +55,6 @@
 *.ton.diamonds
 *.tothemoon.com
 *.white.market
-*.zmo.com
 *.zofai.io
 1inch.com
 1inch.network
@@ -147,6 +146,7 @@ https://api.linen.app
 https://api.nonkyc.io
 https://api.slex.io
 https://api.toobit.com
+https://api.zmo.com
 https://apk.wx16ml.info/apk400.apk
 https://app-stg.inheriti.com
 https://app.allbridge.io

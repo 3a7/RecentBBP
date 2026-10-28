@@ -18,6 +18,18 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-28
+- Wealthsimple (BB - HackerOne) — 1 Wildcard
+- Water-Link (BB - Intigriti) — 14 domains/URLs, 2 Wildcard
+- Water-Link VDP (BB - Intigriti) — 1 domains/URLs, 1 Wildcard
+- OTTO.DE Bug Bounty (BB - YesWeHack) — 1 domains/URLs
+- DevAcrobats (BB - Bugcrowd) — 1 domains/URLs
+- Majid Al Futtaim Lifestyle (BB - Bugcrowd) — 1 domains/URLs
+- Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
+- ZMO Exchange (BB - HackenProof) — 1 domains/URLs
+- HackenProof: 1 program (Meest Poshta Mobile) returned HTTP 500 and was not checked.
+Total: 19 domains/URLs, 3 Wildcard
+
 ### 2026-10-27
 - Cloudflare Public Bug Bounty (BB - HackerOne) — 1 domains/URLs
 - Zurich Insurance (VDP - HackerOne) — 1 Wildcard
