@@ -3289,3 +3289,6 @@ https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-fo
 https://www.pacsun.me
 https://mcp-staging.getmoneytree.com
 https://api.zmo.com
+https://appx.developers.mtn.com
+https://preprod-appx.developers.mtn.com
+https://dev-appx.developers.mtn.com

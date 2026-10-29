@@ -1,0 +1,3 @@
+https://appx.developers.mtn.com
+https://preprod-appx.developers.mtn.com
+https://dev-appx.developers.mtn.com

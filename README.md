@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-29
+- MTN Group (VDP - HackerOne) — 3 domains/URLs
+Total: 3 domains/URLs
+
 ### 2026-10-28
 - Wealthsimple (BB - HackerOne) — 1 Wildcard
 - Water-Link (BB - Intigriti) — 14 domains/URLs, 2 Wildcard
