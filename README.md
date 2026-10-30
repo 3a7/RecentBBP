@@ -18,6 +18,15 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-30
+- 1win (BB - HackerOne) — 6 domains/URLs
+- SIX Group (BB - HackerOne) — 1 domains/URLs
+- StonikByte (BB - Bugcrowd) — 7 domains/URLs
+- CoW Protocol (BB - Immunefi) — 2 domains/URLs
+- Whitechain (BB - HackenProof) — 4 domains/URLs
+- Bugcrowd: 1 program (cms-bbpublic) returned HTTP 404 for its changelog and was not checked.
+Total: 20 domains/URLs
+
 ### 2026-10-29
 - MTN Group (VDP - HackerOne) — 3 domains/URLs
 Total: 3 domains/URLs

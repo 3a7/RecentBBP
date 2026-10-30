@@ -58,6 +58,7 @@
 *.zofai.io
 1inch.com
 1inch.network
+a.whitechain.io
 admin.kunapay.io
 amlbot.com
 api-docs.poloniex.com
@@ -108,11 +109,13 @@ docs.chainstack.com
 docs.near.org
 earn.cex.io
 exmo.com
+explorer.whitechain.io
 fapi.bitunix.com
 faucet.chainstack.com
 geckoterminal.com
 global.bitexen.com
 global.bittrex.com
+http://bridge.whitechain.io
 http://exzo.network
 https://*.backpack.exchange
 https://*.bluefin.io
@@ -266,6 +269,7 @@ https://poloniex.com
 https://prime.sweedpos.com/l*
 https://rbo.raiffeisen.ua
 https://rewards.gdx.org
+https://rpc.whitechain.io
 https://sales.sweedpos.com/*
 https://slex.io
 https://solv.finance
