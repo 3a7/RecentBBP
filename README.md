@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-10-31
+No new assets.
+- Bugcrowd: 1 program (cms-bbpublic) returned HTTP 404 for its changelog and was not checked.
+
 ### 2026-10-30
 - 1win (BB - HackerOne) — 6 domains/URLs
 - SIX Group (BB - HackerOne) — 1 domains/URLs
