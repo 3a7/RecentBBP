@@ -21,8 +21,12 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 ### 2026-11-03
 - Crypto.com (BB - HackerOne) — 3 domains/URLs
 - OpenAI (BB - Bugcrowd) — 1 domains/URLs
+- John Deere (VDP - HackerOne) — 5 domains/URLs
+- HARMAN International - Web Applications (BB - YesWeHack) — 67 domains/URLs
+- Infomaniak Bug Bounty program (BB - YesWeHack) — 2 domains/URLs
+- Cvent Bug Bounty (BB - Bugcrowd) — 1 domains/URLs
 - Bugcrowd: 1 program (cms-bbpublic) returned HTTP 404 for its changelog and was not checked.
-Total: 4 domains/URLs
+Total: 79 domains/URLs
 
 ### 2026-11-02
 No new assets.
