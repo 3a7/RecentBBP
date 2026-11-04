@@ -3391,3 +3391,4 @@ https://www.lexicon.com
 s3.gva1.infomaniak.cloud
 s3.gva2.infomaniak.cloud
 https://accounts.app.cvent.com/paygo/signup
+https://gifts.tatesbakeshop.com
