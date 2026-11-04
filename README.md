@@ -20,8 +20,11 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-04
 - Mondelēz International (VDP - HackerOne) — 1 domains/URLs
-- Bugcrowd: 1 program (cms-bbpublic) returned HTTP 404 for its changelog and was not checked.
-Total: 1 domains/URLs
+- Remitly (BB - HackerOne) — 1 domains/URLs
+- John Deere (VDP - HackerOne) — 1 domains/URLs
+- Henkel (VDP - HackerOne) — 10 Wildcard
+- Resolution (BB - Bugcrowd) — 1 domains/URLs
+Total: 4 domains/URLs, 10 Wildcard
 
 ### 2026-11-03
 - Crypto.com (BB - HackerOne) — 3 domains/URLs

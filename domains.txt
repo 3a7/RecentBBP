@@ -3392,3 +3392,16 @@ s3.gva1.infomaniak.cloud
 s3.gva2.infomaniak.cloud
 https://accounts.app.cvent.com/paygo/signup
 https://gifts.tatesbakeshop.com
+api.remitly.com
+leasedataservice.deere.com
+*.olaplex.com
+*.olaplex.de
+*.olaplex.es
+*.olaplex.{cl,fi,nl,cz,sk,co.jp}
+*.olaplex.co.nz
+*.olaplexusers.com
+*.olaplex-dev.com
+*.olaplex-test.com
+*.opx.tc
+*.purvala.com
+https://marketplace.atlassian.com/apps/1228240/hubspot-jira-crm-issue-link-integration-collaboration?hosting=cloud&tab=overview
