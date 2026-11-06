@@ -3425,3 +3425,4 @@ anduril.com
 *.nymhair.{com,co.uk,uk,}
 https://fitbit-lottery.getmoneytree.com
 https://dojo-yeswehack.com/challenge-of-the-month/dojo-56
+https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp
