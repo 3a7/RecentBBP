@@ -3424,3 +3424,4 @@ anduril.com
 *.nymbrand.{com,co.uk,uk,}
 *.nymhair.{com,co.uk,uk,}
 https://fitbit-lottery.getmoneytree.com
+https://dojo-yeswehack.com/challenge-of-the-month/dojo-56

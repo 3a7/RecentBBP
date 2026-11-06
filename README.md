@@ -23,7 +23,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - Anduril Industries (BB - HackerOne) — 1 domains/URLs
 - Henkel (VDP - HackerOne) — 3 Wildcard
 - Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
-Total: 8 domains/URLs, 3 Wildcard
+- YesWeHack Dojo (BB - YesWeHack) — 1 domains/URLs
+Total: 9 domains/URLs, 3 Wildcard
 
 ### 2026-11-05
 - Stripe (BB - HackerOne) — 3 domains/URLs
