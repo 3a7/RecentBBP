@@ -3413,3 +3413,14 @@ emails.judge.me
 files.stripe.com
 stripe.com
 stripe.dev
+https://www.bybit.com/en/ai-bot/home
+https://www.bybit.com/en/stocks
+https://testnet.bybit.com/en/trade/usdt/btcusdt
+https://testnet.bybit.com/en/trade/option/usdt/spcx
+https://testnet.bybit.com/en/trade/odds
+https://testnet.bybit.com/en/earn/rwa
+anduril.com
+*.nymbrands.{com,co.uk,uk,}
+*.nymbrand.{com,co.uk,uk,}
+*.nymhair.{com,co.uk,uk,}
+https://fitbit-lottery.getmoneytree.com

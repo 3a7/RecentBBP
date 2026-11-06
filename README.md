@@ -18,6 +18,13 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-11-06
+- Bybit Fintech Ltd (BB - HackerOne) — 6 domains/URLs
+- Anduril Industries (BB - HackerOne) — 1 domains/URLs
+- Henkel (VDP - HackerOne) — 3 Wildcard
+- Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
+Total: 8 domains/URLs, 3 Wildcard
+
 ### 2026-11-05
 - Stripe (BB - HackerOne) — 3 domains/URLs
 - John Deere (VDP - HackerOne) — 2 domains/URLs
