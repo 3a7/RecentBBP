@@ -25,7 +25,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
 - YesWeHack Dojo (BB - YesWeHack) — 1 domains/URLs
 - Braze, Inc. (BB - HackerOne) — 1 domains/URLs
-Total: 10 domains/URLs, 3 Wildcard
+- MOD Supply Chain VDP (VDP - HackerOne) — 1 IP/CIDR
+Total: 10 domains/URLs, 1 IP/CIDR, 3 Wildcard
 
 ### 2026-11-05
 - Stripe (BB - HackerOne) — 3 domains/URLs
