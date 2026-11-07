@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-11-07
+- Ping Identity (BB - HackerOne) — 1 domains/URLs
+Total: 1 domains/URLs
+
 ### 2026-11-06
 - Bybit Fintech Ltd (BB - HackerOne) — 6 domains/URLs
 - Anduril Industries (BB - HackerOne) — 1 domains/URLs
