@@ -20,10 +20,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-09
 - Canada Post - Responsible Disclosure Program (BB - Intigriti) — 2 Wildcard
-- John Deere (VDP - HackerOne) — 1 domains/URLs
+- John Deere (VDP - HackerOne) — 2 domains/URLs
 - Mars (VDP - HackerOne) — 1 domains/URLs
 - CBRE (VDP - HackerOne) — 2 domains/URLs
-Total: 4 domains/URLs, 2 Wildcard
+Total: 5 domains/URLs, 2 Wildcard
 
 ### 2026-11-07
 - Ping Identity (BB - HackerOne) — 1 domains/URLs
