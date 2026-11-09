@@ -1,1 +1,3 @@
 *.aws.canadapost-postescanada.ca
+extraparts.deere.com
+*.canadapost.ca

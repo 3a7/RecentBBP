@@ -3428,3 +3428,5 @@ https://dojo-yeswehack.com/challenge-of-the-month/dojo-56
 https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
 *.aws.canadapost-postescanada.ca
+extraparts.deere.com
+*.canadapost.ca

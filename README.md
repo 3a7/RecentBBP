@@ -19,8 +19,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-11-09
-- Canada Post - Responsible Disclosure Program (BB - Intigriti) — 1 Wildcard
-Total: 1 Wildcard
+- Canada Post - Responsible Disclosure Program (BB - Intigriti) — 2 Wildcard
+- John Deere (VDP - HackerOne) — 1 domains/URLs
+Total: 1 domains/URLs, 2 Wildcard
 
 ### 2026-11-07
 - Ping Identity (BB - HackerOne) — 1 domains/URLs
