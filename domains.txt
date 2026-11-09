@@ -3430,3 +3430,6 @@ https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
 *.aws.canadapost-postescanada.ca
 extraparts.deere.com
 *.canadapost.ca
+marschina.com
+market-survey.cbre.com
+tenant-tour.cbre.com

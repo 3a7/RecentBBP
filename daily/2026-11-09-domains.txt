@@ -1,3 +1,6 @@
 *.aws.canadapost-postescanada.ca
 extraparts.deere.com
 *.canadapost.ca
+marschina.com
+market-survey.cbre.com
+tenant-tour.cbre.com
