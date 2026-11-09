@@ -206,7 +206,6 @@ https://demo.sweedpos.com/*
 https://dev.sweedpos.com/*
 https://dexalot.com
 https://doc.xt.com
-https://docs.citrea.xyz
 https://docs.cryptology.com
 https://docs.redstone.finance
 https://docs.tothemoon.com

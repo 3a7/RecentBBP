@@ -1,0 +1,1 @@
+*.aws.canadapost-postescanada.ca
