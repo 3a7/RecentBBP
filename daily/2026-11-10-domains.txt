@@ -1,1 +1,3 @@
 https://login.bitpanda.com
+*.shopify.com
+help.shop.app

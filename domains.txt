@@ -3435,3 +3435,5 @@ market-survey.cbre.com
 tenant-tour.cbre.com
 mailhost.johndeere.com
 https://login.bitpanda.com
+*.shopify.com
+help.shop.app
