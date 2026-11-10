@@ -20,8 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-10
 - Bitpanda Ongoing Bug Bounty (BB - Bugcrowd) — 1 domains/URLs
-- Shopify (BB - HackerOne) — 1 domains/URLs, 1 Wildcard
-Total: 2 domains/URLs, 1 Wildcard
+- Shopify (BB - HackerOne) — 3 domains/URLs, 2 Wildcard
+Total: 4 domains/URLs, 2 Wildcard
 
 ### 2026-11-09
 - Canada Post - Responsible Disclosure Program (BB - Intigriti) — 2 Wildcard

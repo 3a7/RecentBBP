@@ -3437,3 +3437,6 @@ mailhost.johndeere.com
 https://login.bitpanda.com
 *.shopify.com
 help.shop.app
+*.shopifysvc.com
+shop.app
+shop.com
