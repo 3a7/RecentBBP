@@ -3446,3 +3446,4 @@ humantoken.unico.app
 api.humantoken.unico.app
 dashboard.unico.app
 developer.unico.io
+*.hilton.com.cn
