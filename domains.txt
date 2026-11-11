@@ -3440,3 +3440,4 @@ help.shop.app
 *.shopifysvc.com
 shop.app
 shop.com
+*.maxbet.ro
