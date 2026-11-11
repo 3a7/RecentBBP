@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-11
 - Superbet (BB - HackerOne) — 1 Wildcard
-Total: 1 Wildcard
+- Unico IDtech (BB - HackerOne) — 5 domains/URLs
+Total: 5 domains/URLs, 1 Wildcard
 
 ### 2026-11-10
 - Bitpanda Ongoing Bug Bounty (BB - Bugcrowd) — 1 domains/URLs

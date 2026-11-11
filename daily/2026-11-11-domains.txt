@@ -1,1 +1,6 @@
 *.maxbet.ro
+https://sdk-h1.unico.io/createprocess
+humantoken.unico.app
+api.humantoken.unico.app
+dashboard.unico.app
+developer.unico.io
