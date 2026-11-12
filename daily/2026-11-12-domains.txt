@@ -1,1 +1,2 @@
 https://fitbit-lottery-staging.getmoneytree.com
+https://oos.eu-west-2.outscale.com

@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-12
 - Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
-Total: 1 domains/URLs
+- 3DS OUTSCALE (BB - YesWeHack) — 1 domains/URLs
+Total: 2 domains/URLs
 
 ### 2026-11-11
 - Superbet (BB - HackerOne) — 1 Wildcard
