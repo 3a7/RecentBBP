@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-11-12
+- Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
+Total: 1 domains/URLs
+
 ### 2026-11-11
 - Superbet (BB - HackerOne) — 1 Wildcard
 - Unico IDtech (BB - HackerOne) — 5 domains/URLs
