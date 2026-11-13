@@ -3451,3 +3451,8 @@ developer.unico.io
 https://fitbit-lottery-staging.getmoneytree.com
 https://oos.eu-west-2.outscale.com
 https://campus.hm.essity.com
+https://*.integrations.vintedgo.com
+https://aim-marketplace.vinted.com
+https://ems.it.vinted.com
+https://gemstash-integrations.vintedgo.com
+https://qnrs.vintedgo.com

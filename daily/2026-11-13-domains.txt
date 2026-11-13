@@ -1,1 +1,6 @@
 https://campus.hm.essity.com
+https://*.integrations.vintedgo.com
+https://aim-marketplace.vinted.com
+https://ems.it.vinted.com
+https://gemstash-integrations.vintedgo.com
+https://qnrs.vintedgo.com

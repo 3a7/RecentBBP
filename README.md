@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-13
 - Essity (VDP - HackerOne) — 1 domains/URLs
-Total: 1 domains/URLs
+- Vinted Bug Bounty (BB - Bugcrowd) — 4 domains/URLs, 1 Wildcard
+Total: 5 domains/URLs, 1 Wildcard
 
 ### 2026-11-12
 - Moneytree KK (BB - Bugcrowd) — 1 domains/URLs
