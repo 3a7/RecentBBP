@@ -3457,3 +3457,9 @@ https://ems.it.vinted.com
 https://gemstash-integrations.vintedgo.com
 https://qnrs.vintedgo.com
 https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
+*.got2b.{com,jp}
+*.henkel-ac.jp
+*.loctite.jp
+*.shiseido-professional.com
+*.schwarzkopf-henkel.jp
+www.freshlight.jp

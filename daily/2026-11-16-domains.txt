@@ -1,0 +1,6 @@
+*.got2b.{com,jp}
+*.henkel-ac.jp
+*.loctite.jp
+*.shiseido-professional.com
+*.schwarzkopf-henkel.jp
+www.freshlight.jp
