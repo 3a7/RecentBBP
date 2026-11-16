@@ -3463,3 +3463,7 @@ https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceabil
 *.shiseido-professional.com
 *.schwarzkopf-henkel.jp
 www.freshlight.jp
+api.boursobank.com
+clients.boursobank.com
+tradingboard.boursobank.com
+www.boursobank.com

@@ -4,3 +4,7 @@
 *.shiseido-professional.com
 *.schwarzkopf-henkel.jp
 www.freshlight.jp
+api.boursobank.com
+clients.boursobank.com
+tradingboard.boursobank.com
+www.boursobank.com
