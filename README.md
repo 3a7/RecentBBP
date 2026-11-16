@@ -21,7 +21,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 ### 2026-11-16
 - Henkel (VDP - HackerOne) — 1 domains/URLs, 5 Wildcard
 - BoursoBank Bug Bounty Program (BB - YesWeHack) — 4 domains/URLs
-Total: 5 domains/URLs, 5 Wildcard
+- Meesho (BB - HackerOne) — 3 domains/URLs
+- Essity (VDP - HackerOne) — 1 domains/URLs
+Total: 9 domains/URLs, 5 Wildcard
 
 ### 2026-11-15
 No new assets.

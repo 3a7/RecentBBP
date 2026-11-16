@@ -8,3 +8,7 @@ api.boursobank.com
 clients.boursobank.com
 tradingboard.boursobank.com
 www.boursobank.com
+console.valmo.in
+grocery-supplier.meesho.com
+agency.meesho.com
+https://higieneinclusivatork.mx
