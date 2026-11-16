@@ -23,7 +23,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - BoursoBank Bug Bounty Program (BB - YesWeHack) — 4 domains/URLs
 - Meesho (BB - HackerOne) — 3 domains/URLs
 - Essity (VDP - HackerOne) — 1 domains/URLs
-Total: 9 domains/URLs, 5 Wildcard
+- John Deere (VDP - HackerOne) — 1 domains/URLs
+Total: 10 domains/URLs, 5 Wildcard
 
 ### 2026-11-15
 No new assets.
