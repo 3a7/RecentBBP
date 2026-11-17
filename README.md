@@ -22,7 +22,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - Challenge 1126 (BB - Intigriti) — 1 domains/URLs
 - Mondelēz International (VDP - HackerOne) — 1 domains/URLs
 - Airtable (BB - HackerOne) — 3 domains/URLs, 2 Wildcard
-Total: 5 domains/URLs, 2 Wildcard
+- Posti Bug Bounty (BB - Intigriti) — 7 domains/URLs
+Total: 12 domains/URLs, 2 Wildcard
 
 ### 2026-11-16
 - Henkel (VDP - HackerOne) — 1 domains/URLs, 5 Wildcard

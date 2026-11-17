@@ -5,3 +5,10 @@ https://www.lojamondelez.com.br
 staging.airtable.com
 api-staging.airtable.com
 mcp.staging.airtable.com
+admin.postikuori.posti.fi
+api.postikuori.posti.fi
+cms.postikuori.posti.fi
+etavarasto.posti.fi
+iam.postikuori.posti.fi
+iamapp.postikuori.posti.fi
+rebl-ai-webchat-postikuori.azurewebsites.net
