@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-17
 - Challenge 1126 (BB - Intigriti) — 1 domains/URLs
-Total: 1 domains/URLs
+- Mondelēz International (VDP - HackerOne) — 1 domains/URLs
+Total: 2 domains/URLs
 
 ### 2026-11-16
 - Henkel (VDP - HackerOne) — 1 domains/URLs, 5 Wildcard
