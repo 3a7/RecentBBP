@@ -23,7 +23,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - Mondelēz International (VDP - HackerOne) — 1 domains/URLs
 - Airtable (BB - HackerOne) — 3 domains/URLs, 2 Wildcard
 - Posti Bug Bounty (BB - Intigriti) — 7 domains/URLs
-Total: 12 domains/URLs, 2 Wildcard
+- John Deere (VDP - HackerOne) — 1 domains/URLs
+Total: 13 domains/URLs, 2 Wildcard
 
 ### 2026-11-16
 - Henkel (VDP - HackerOne) — 1 domains/URLs, 5 Wildcard

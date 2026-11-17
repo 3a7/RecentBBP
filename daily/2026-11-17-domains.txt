@@ -12,3 +12,4 @@ etavarasto.posti.fi
 iam.postikuori.posti.fi
 iamapp.postikuori.posti.fi
 rebl-ai-webchat-postikuori.azurewebsites.net
+synthiscene.deere.com
