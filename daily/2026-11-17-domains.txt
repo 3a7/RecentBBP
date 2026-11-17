@@ -1,2 +1,7 @@
 https://challenge-1126.challenges.intigriti.io
 https://www.lojamondelez.com.br
+*.staging-airtableblocks.com
+*.staging.airtable.com
+staging.airtable.com
+api-staging.airtable.com
+mcp.staging.airtable.com
