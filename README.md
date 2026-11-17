@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-11-17
+- Challenge 1126 (BB - Intigriti) — 1 domains/URLs
+Total: 1 domains/URLs
+
 ### 2026-11-16
 - Henkel (VDP - HackerOne) — 1 domains/URLs, 5 Wildcard
 - BoursoBank Bug Bounty Program (BB - YesWeHack) — 4 domains/URLs
