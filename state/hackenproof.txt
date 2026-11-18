@@ -1,3 +1,6 @@
+ *.zofai.io
+ https://app.init.capital
+ https://zofai.io
 *.alphasec.trade
 *.ascendex.com
 *.avalabs.org
@@ -13,7 +16,7 @@
 *.bitkub.com
 *.bitmart.com
 *.bitrue.com
-*.bittrex.com
+*.bittrex.com 
 *.blofin.com
 *.cetus.zone
 *.coinmetro.com
@@ -55,13 +58,14 @@
 *.ton.diamonds
 *.tothemoon.com
 *.white.market
-*.zofai.io
 /dns4/bootstrap.whitechain.io/tcp/9222/p2p/16uiu2hakybwsbfb28eup6nyjhmwcym9ndywkry5gsuuqykhua3cp
 1inch.com
 1inch.network
 a.whitechain.io
 admin.kunapay.io
 amlbot.com
+api
+api & websocket
 api-docs.poloniex.com
 api.1inch.com
 api.amlbot.com
@@ -79,6 +83,7 @@ api.kuna.io
 api.kunapay.io
 api.poloniex.com
 api2.poloniex.com
+apis
 app.lachain.io
 app.myetherwallet.com
 app.nado.xyz
@@ -87,6 +92,10 @@ app.superposition.finance
 asphere.xyz
 auth.bittrex.com
 auth.cex.io
+ava labs warden server and blob storage endpoints (please test on testnet only)
+avalanche-wallet
+avalanche-wallet-sdk
+avalanchejs
 blockchain.com
 blofin.com
 blog.1inch.com
@@ -102,13 +111,18 @@ chainstack.com
 codex.one
 coingecko.com
 console.chainstack.com
+core web wallet
 cryptology.com
+crypviser network
 dapp.stbl.com
+dashboard
 dashboard.kunapay.io
 dex-trade.com
 docs.chainstack.com
 docs.near.org
+dubai site
 earn.cex.io
+enclave server (please test on testnet only)
 enode://ca5415059bb0e7c481bccc3704d487e1ebfb0636375dd91e6f7b0b0b013156c8bba34d37f223cdafc29364f1baabbb405243b1c9bb8abf666f5ae55a92ab030a@bootstrap.whitechain.io:30304
 exmo.com
 explorer.whitechain.io
@@ -116,17 +130,18 @@ fapi.bitunix.com
 faucet.chainstack.com
 geckoterminal.com
 global.bitexen.com
-global.bittrex.com
+global.bittrex.com 
+go ttc
 http://bridge.whitechain.io
 http://exzo.network
 https://*.backpack.exchange
 https://*.bluefin.io
 https://aax.com
-https://admin-panel-dev.sweedpos.com/*
-https://admin-panel-sales.sweedpos.com/*
-https://admin-panel.curaleaf.sweedpos.com/*
-https://admin-panel.pilot.sweedpos.com/*
-https://admin-panel.prime.sweedpos.com/*
+https://admin-panel-dev.sweedpos.com/* 
+https://admin-panel-sales.sweedpos.com/* 
+https://admin-panel.curaleaf.sweedpos.com/* 
+https://admin-panel.pilot.sweedpos.com/* 
+https://admin-panel.prime.sweedpos.com/* 
 https://admin-panel.sweedpos.com/*
 https://affiliate.cryptology.com
 https://affiliate.tothemoon.com
@@ -161,7 +176,6 @@ https://app.evaa.finance
 https://app.film.io
 https://app.flipster.io
 https://app.idos.network
-https://app.init.capital
 https://app.monday.trade
 https://app.multipli.fi
 https://app.playground.idos.network
@@ -189,22 +203,22 @@ https://blog.whitebit.com
 https://bluefin.io
 https://bridge.kubchain.com
 https://bridgr-testnet.polkalokr.com
-https://cashier-curaleaf.sweedpos.com/*
-https://cashier-demo.sweedpos.com/*
-https://cashier-dev.sweedpos.com/*
-https://cashier-prime.sweedpos.com/*
-https://cashier-sales.sweedpos.com/*
-https://cashier.sweedpos.com/*
+https://cashier-curaleaf.sweedpos.com/* 
+https://cashier-demo.sweedpos.com/* 
+https://cashier-dev.sweedpos.com/* 
+https://cashier-prime.sweedpos.com/* 
+https://cashier-sales.sweedpos.com/* 
+https://cashier.sweedpos.com/* 
 https://chrome.google.com/webstore/detail/flow-core/hpclkefagolihohboafpheddmmgdffjm
 https://citrea.xyz/batch-explorer
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://crash.fun
 https://cronosid.xyz
-https://curaleaf.sweedpos.com/*
+https://curaleaf.sweedpos.com/* 
 https://dashboard.internetcomputer.org
 https://deepfi.games
 https://deepfi.trade
-https://demo.sweedpos.com/*
+https://demo.sweedpos.com/* 
 https://dev.sweedpos.com/*
 https://dexalot.com
 https://doc.xt.com
@@ -234,7 +248,7 @@ https://github.com/exzonetwork/web3.js
 https://github.com/myetherwallet/myetherwallet/tree/feat/v7
 https://github.com/noirwallet/noir-wallet
 https://github.com/p2b-team/p2b-api-docs
-https://github.com/spritheremm/citex-spot-open-api
+https://github.com/spritheremm/citex-spot-open-api 
 https://gmgn.ai
 https://grovex.io
 https://h2.finance
@@ -268,20 +282,20 @@ https://phemex.com
 https://pionex-doc.gitbook.io/apidocs
 https://pointpay.io
 https://poloniex.com
-https://prime.sweedpos.com/l*
+https://prime.sweedpos.com/l* 
 https://rbo.raiffeisen.ua
 https://rewards.gdx.org
 https://rpc.whitechain.io
-https://sales.sweedpos.com/*
+https://sales.sweedpos.com/* 
 https://slex.io
 https://solv.finance
-https://stage.film.io
+https://stage.film.io 
 https://staking.kubchain.com
 https://staking.uniultra.xyz
 https://standalone2.fuib.com
 https://starkgate.starknet.io
 https://status.app/api/download/linux
-https://store.sweedpos.com/*
+https://store.sweedpos.com/* 
 https://superearn.io
 https://tectonic.finance
 https://test.nicehash.com
@@ -345,24 +359,60 @@ https://www.zetachain.com/docs
 https://www.zetachain.com/ecosystem
 https://www.zmo.com
 https://www.zoomex.com
-https://zofai.io
 id.ton.org
 id.ton.org/api
 id.ton.org/v1
+id.ton.org: csbt claiming
 internal.whitebit.com
+ios app
 kissandfly.com
 kuna.io
 ladex.exchange
 latoken.com
+mac app
+main website
 mainnet-boot-0.ternoa.network
 mainnet-boot-1.ternoa.network
 mainnet-boot-2.ternoa.network
 mainnet.ternoa.network
+malta site
 mcp.chainstack.com
 money.kuna.io
 near.org
+p2p functionality
 prime.cex.io
 pro-api.coingecko.com
+prod bridge front end (reporting only - please test on testnet)
+prod btc bridge enclave address: avalanche
+prod btc bridge enclave address: bitcoin
+prod contract address: 1inch.e
+prod contract address: aave.e
+prod contract address: alpha.e
+prod contract address: bat.e
+prod contract address: btc.b
+prod contract address: busd.e
+prod contract address: comp.e
+prod contract address: crv.e
+prod contract address: dai.e
+prod contract address: grt.e
+prod contract address: link.e
+prod contract address: mkr.e
+prod contract address: shib.e
+prod contract address: snx.e
+prod contract address: sushi.e
+prod contract address: swap.e
+prod contract address: uma.e
+prod contract address: uni.e
+prod contract address: usdc.e
+prod contract address: usdt.e
+prod contract address: wbtc.e
+prod contract address: weth.e
+prod contract address: woo.e
+prod contract address: yfi.e
+prod contract address: zrx.e
+prod evm bridge enclave address: avalanche
+prod evm bridge enclave address: ethereum
+production infrastructure
 profile.cex.io
 sapi.poloniex.com
 shapeshift.com
@@ -370,6 +420,21 @@ stage.bittrex.com
 static.bittrex.com
 support.avalabs.org
 tacsk.fuib.com
+ternoa indexer
+ternoa mainnet:
+ternoa.com eth-ternoa bridge
+testnet bridge enclave address: avalanche
+testnet bridge enclave address: bitcoin
+testnet bridge enclave address: ethereum (goerli)
+testnet bridge front end for testing
+testnet contract address (subject to change): btc.b
+testnet contract address (subject to change): dai.e
+testnet contract address (subject to change): link.e
+testnet contract address (subject to change): usdc.e
+testnet contract address (subject to change): usdt.e
+testnet contract address (subject to change): wbtc.e
+testnet contract address (subject to change): weth.e
+testnet evm bridge enclave address: avalanche:
 testnet.nado.xyz
 tickets.kz/my
 tms.polo-static.com
@@ -380,9 +445,12 @@ trade.cex.io
 travelfrom.fr
 v3.polo-static.com
 wallet.cex.io
-web.bittrex.com
+web
+web application
+web.bittrex.com 
 wgc.polo-static.com
 whitebit.com
+windows app
 ws-web.poloniex.com
 ws.blockchain.info
 ws.poloniex.com
@@ -398,3 +466,4 @@ www.citex.io
 www.coinstore.com
 www.myetherwallet.com/wallet/access
 x-api.poloniex.com
+yield farming
