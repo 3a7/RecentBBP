@@ -2,3 +2,5 @@ cfignition-devl.deere.com
 digitalcampus-devl.deere.com
 https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/devicemanagement
+vs-trenching.analytics-vpn.us.e01.c01.johndeerecloud.com
+vdv-jdps-sam.deere.com
