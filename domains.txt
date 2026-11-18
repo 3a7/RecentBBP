@@ -3494,3 +3494,4 @@ https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/devicemanagement
 vs-trenching.analytics-vpn.us.e01.c01.johndeerecloud.com
 vdv-jdps-sam.deere.com
+customer-rewards-third-party-microservice.channel-owner-portal-myjohndeere-prod-vpn2.use1.e06.c01.johndeerecloud.com

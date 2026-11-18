@@ -19,9 +19,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-11-18
-- John Deere (VDP - HackerOne) — 4 domains/URLs
+- John Deere (VDP - HackerOne) — 5 domains/URLs
 - Visa (BB - HackerOne) — 2 domains/URLs
-Total: 6 domains/URLs
+Total: 7 domains/URLs
 
 ### 2026-11-17
 - Challenge 1126 (BB - Intigriti) — 1 domains/URLs
