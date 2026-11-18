@@ -3488,3 +3488,7 @@ iamapp.postikuori.posti.fi
 rebl-ai-webchat-postikuori.azurewebsites.net
 synthiscene.deere.com
 https://ebctest.cybersource.com/unifiedpayments
+cfignition-devl.deere.com
+digitalcampus-devl.deere.com
+https://ebctest.cybersource.com/apm
+https://ebctest.cybersource.com/devicemanagement

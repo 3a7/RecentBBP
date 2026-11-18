@@ -1,0 +1,4 @@
+cfignition-devl.deere.com
+digitalcampus-devl.deere.com
+https://ebctest.cybersource.com/apm
+https://ebctest.cybersource.com/devicemanagement
