@@ -3514,3 +3514,4 @@ https://www.mallofoman.net/en
 https://www.malloftheemirates.com/en
 api.naksha.here.com
 interactive.data.api.platform.here.com
+channel-ai-solutions.deere.com
