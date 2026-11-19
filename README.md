@@ -24,8 +24,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - vidaXL Services - Open Bug Bounty Program (BB - YesWeHack) — 1 domain/URL, 3 Wildcards
 - Majid Al Futtaim Customer Solutions (BB - Bugcrowd) — 11 domains/URLs
 - Here Technologies (BB - Intigriti) — 2 domains/URLs
-- John Deere (VDP - HackerOne) — 2 domains/URLs
-Total: 16 domains/URLs, 5 Wildcards
+- John Deere (VDP - HackerOne) — 3 domains/URLs
+- TransUnion LLC (VDP - HackerOne) — 1 domain/URL
+Total: 18 domains/URLs, 5 Wildcards
 
 ### 2026-11-18
 - John Deere (VDP - HackerOne) — 5 domains/URLs
