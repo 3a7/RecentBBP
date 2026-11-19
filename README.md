@@ -20,7 +20,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-19
 - Alohi (VDP - HackerOne) — 1 Wildcard
-Total: 1 Wildcard
+- GRW Trading FZE - Open Bug Bounty Program (BB - YesWeHack) — 1 Wildcard
+- vidaXL Services - Open Bug Bounty Program (BB - YesWeHack) — 1 domain/URL, 3 Wildcards
+- Majid Al Futtaim Customer Solutions (BB - Bugcrowd) — 11 domains/URLs
+Total: 12 domains/URLs, 5 Wildcards
 
 ### 2026-11-18
 - John Deere (VDP - HackerOne) — 5 domains/URLs
