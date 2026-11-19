@@ -23,3 +23,14 @@ self-service.deere.com
 sontiq.com
 backend-sdk.prod.private.unico.run
 cadastro.unico.app
+http://pki.survice.com
+http://mail3.survice.com
+http://gp.survice.com
+http://gpm.survice.com
+remote.survice.com
+http://www.survpath.com
+http://www.jasp-online.org
+http://www.survice.com
+http://www.warriorsonthegreen.org
+http://gpc.survice.com
+http://mail4.survice.com
