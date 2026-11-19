@@ -15,3 +15,5 @@ https://www.citycentremalls.com/en-bh/city-centre-bahrain
 https://www.mallofegypt.com/en
 https://www.mallofoman.net/en
 https://www.malloftheemirates.com/en
+api.naksha.here.com
+interactive.data.api.platform.here.com
