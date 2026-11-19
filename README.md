@@ -18,6 +18,10 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-11-19
+- Alohi (VDP - HackerOne) — 1 Wildcard
+Total: 1 Wildcard
+
 ### 2026-11-18
 - John Deere (VDP - HackerOne) — 5 domains/URLs
 - Visa (BB - HackerOne) — 2 domains/URLs
