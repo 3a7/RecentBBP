@@ -26,7 +26,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - Here Technologies (BB - Intigriti) — 2 domains/URLs
 - John Deere (VDP - HackerOne) — 3 domains/URLs
 - TransUnion LLC (VDP - HackerOne) — 1 domain/URL
-Total: 18 domains/URLs, 5 Wildcards
+- Unico IDtech (BB - HackerOne) — 2 domains/URLs
+Total: 20 domains/URLs, 5 Wildcards
 
 ### 2026-11-18
 - John Deere (VDP - HackerOne) — 5 domains/URLs

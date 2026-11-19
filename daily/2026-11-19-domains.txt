@@ -21,3 +21,5 @@ channel-ai-solutions.deere.com
 apollo-academy.jdf-dataenabl-qual-vpn.us.e10.c01.johndeerecloud.com
 self-service.deere.com
 sontiq.com
+backend-sdk.prod.private.unico.run
+cadastro.unico.app
