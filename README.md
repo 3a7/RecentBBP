@@ -23,7 +23,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - The Coca-Cola Company Vulnerability Disclosure Program (BB - Intigriti) — 145 Wildcards
 - Fidelity (VDP - HackerOne) — 1 Wildcard
 - John Deere (VDP - HackerOne) — 2 domains/URLs
-Total: 3 domains/URLs, 146 Wildcards
+- Visa (BB - HackerOne) — 1 domain/URL
+Total: 4 domains/URLs, 146 Wildcards
 
 ### 2026-11-19
 - Alohi (VDP - HackerOne) — 1 Wildcard
