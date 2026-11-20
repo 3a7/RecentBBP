@@ -144,3 +144,4 @@ www.sellingpilot.com
 *.theinnocentbigrewild.co.uk
 *.theinnocentbigrewild.com
 *.werkenbijinnocentdrinks.nl
+*.fidsafe.com
