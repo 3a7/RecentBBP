@@ -145,3 +145,5 @@ www.sellingpilot.com
 *.theinnocentbigrewild.com
 *.werkenbijinnocentdrinks.nl
 *.fidsafe.com
+soil-health.deere.com
+ds4.sap.allmakes.deere.com
