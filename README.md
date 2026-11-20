@@ -24,7 +24,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - Fidelity (VDP - HackerOne) — 1 Wildcard
 - John Deere (VDP - HackerOne) — 2 domains/URLs
 - Visa (BB - HackerOne) — 1 domain/URL
-Total: 4 domains/URLs, 146 Wildcards
+- BOJA Consulting Bug Bounty (BB - Bugcrowd) — 1 domain/URL
+Total: 5 domains/URLs, 146 Wildcards
 
 ### 2026-11-19
 - Alohi (VDP - HackerOne) — 1 Wildcard

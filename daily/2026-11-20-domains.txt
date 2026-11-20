@@ -148,3 +148,4 @@ www.sellingpilot.com
 soil-health.deere.com
 ds4.sap.allmakes.deere.com
 https://ebc2test.cybersource.com/currencyconversion
+https://marketplace.atlassian.com/apps/2394034939/email-attach-automation-exporter-pdf-word-claude-mcp?hosting=cloud&tab=overview
