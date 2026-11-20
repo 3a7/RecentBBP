@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-20
 - Newegg (BB - HackerOne) — 1 domain/URL
-Total: 1 domain/URL
+- The Coca-Cola Company Vulnerability Disclosure Program (BB - Intigriti) — 145 Wildcards
+Total: 1 domain/URL, 145 Wildcards
 
 ### 2026-11-19
 - Alohi (VDP - HackerOne) — 1 Wildcard
