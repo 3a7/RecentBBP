@@ -21,11 +21,11 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-23
 - Equifax-vdp (VDP - HackerOne) — 1 Wildcard
-- John Deere (VDP - HackerOne) — 2 domains/URLs
+- John Deere (VDP - HackerOne) — 3 domains/URLs
 - The Walt Disney Company (VDP - HackerOne) — 1 domain/URL
 - TransUnion LLC (VDP - HackerOne) — 1 domain/URL
 - Visa (BB - HackerOne) — 1 domain/URL
-Total: 5 domains/URLs, 1 Wildcard
+Total: 6 domains/URLs, 1 Wildcard
 
 ### 2026-11-20
 - Newegg (BB - HackerOne) — 1 domain/URL
