@@ -1,0 +1,14 @@
+{"asset":"https://gifts.tatesbakeshop.com","type":"url","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"api.remitly.com","type":"domain","program":"Remitly","handle":"remitly","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/remitly","bounty":true,"first_seen":"2026-11-04","backfill":true}
+{"asset":"leasedataservice.deere.com","type":"domain","program":"John Deere","handle":"john-deere","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/john-deere","bounty":false,"first_seen":"2026-11-04","backfill":true}
+{"asset":"*.olaplex.com","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplex.de","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplex.es","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplex.{cl,fi,nl,cz,sk,co.jp}","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplex.co.nz","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplexusers.com","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplex-dev.com","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.olaplex-test.com","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-04","backfill":true,"unresolved":true}
+{"asset":"*.opx.tc","type":"wildcard","program":"Henkel","handle":"henkel_vdp","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/henkel_vdp","bounty":false,"first_seen":"2026-11-04","backfill":true}
+{"asset":"*.purvala.com","type":"wildcard","program":"Henkel","handle":"henkel_vdp","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/henkel_vdp","bounty":false,"first_seen":"2026-11-04","backfill":true}
+{"asset":"https://marketplace.atlassian.com/apps/1228240/hubspot-jira-crm-issue-link-integration-collaboration?hosting=cloud&tab=overview","type":"url","program":"Resolution","handle":"resolutionde","platform":"Bugcrowd","kind":"BB","url":"https://bugcrowd.com/engagements/resolutionde","bounty":true,"first_seen":"2026-11-04","backfill":true}

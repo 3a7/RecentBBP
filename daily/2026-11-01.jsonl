@@ -1,0 +1,2 @@
+{"run":"2026-11-01","new":0,"backfill":true}
+{"run":"2026-11-01","platform":"Bugcrowd","error":"1 program (cms-bbpublic) returned HTTP 404 for its changelog and was not checked","backfill":true}

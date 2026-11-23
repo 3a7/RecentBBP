@@ -1,0 +1,6 @@
+{"asset":"https://login.bitpanda.com","type":"url","program":"Bitpanda Ongoing Bug Bounty","handle":"bitpanda-og-bb","platform":"Bugcrowd","kind":"BB","url":"https://bugcrowd.com/engagements/bitpanda-og-bb","bounty":true,"first_seen":"2026-11-10","backfill":true}
+{"asset":"*.shopify.com","type":"wildcard","program":"Shopify","handle":"shopify","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/shopify","bounty":true,"first_seen":"2026-11-10","backfill":true}
+{"asset":"help.shop.app","type":"domain","program":"Shopify","handle":"shopify","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/shopify","bounty":true,"first_seen":"2026-11-10","backfill":true}
+{"asset":"*.shopifysvc.com","type":"wildcard","program":"Shopify","handle":"shopify","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/shopify","bounty":true,"first_seen":"2026-11-10","backfill":true}
+{"asset":"shop.app","type":"domain","program":"Shopify","handle":"shopify","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/shopify","bounty":true,"first_seen":"2026-11-10","backfill":true}
+{"asset":"shop.com","type":"domain","program":"Shopify","handle":"shopify","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/shopify","bounty":true,"first_seen":"2026-11-10","backfill":true}

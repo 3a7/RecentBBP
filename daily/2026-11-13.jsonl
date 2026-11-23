@@ -1,0 +1,7 @@
+{"asset":"https://campus.hm.essity.com","type":"url","program":"Essity","handle":"essity","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/essity","bounty":false,"first_seen":"2026-11-13","backfill":true}
+{"asset":"https://*.integrations.vintedgo.com","type":"wildcard","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-13","backfill":true,"unresolved":true}
+{"asset":"https://aim-marketplace.vinted.com","type":"url","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-13","backfill":true,"unresolved":true}
+{"asset":"https://ems.it.vinted.com","type":"url","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-13","backfill":true,"unresolved":true}
+{"asset":"https://gemstash-integrations.vintedgo.com","type":"url","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-13","backfill":true,"unresolved":true}
+{"asset":"https://qnrs.vintedgo.com","type":"url","program":null,"handle":null,"platform":null,"kind":null,"url":null,"bounty":null,"first_seen":"2026-11-13","backfill":true,"unresolved":true}
+{"asset":"https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira","type":"url","program":"Deviniti","handle":"deviniti","platform":"Bugcrowd","kind":"BB","url":"https://bugcrowd.com/engagements/deviniti","bounty":true,"first_seen":"2026-11-13","backfill":true}
