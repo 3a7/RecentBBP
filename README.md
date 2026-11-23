@@ -15,6 +15,7 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `domains.txt` — master, append-only, deduplicated list of every in-scope domain / wildcard domain / URL seen across all runs. One asset per line, no other content.
 - `ips.txt` — master, append-only, deduplicated list of every in-scope IP / CIDR range seen across all runs. One asset per line, no other content.
 - `daily/YYYY-MM-DD-domains.txt` / `daily/YYYY-MM-DD-ips.txt` — only the assets first observed on that run's date (i.e. not already present in the master lists). Omitted for a date if nothing new was found.
+- `daily/YYYY-MM-DD.jsonl` — the same new assets as that day's .txt files, one JSON object per line, recording which program each belongs to (`asset`, `type`, `program`, `handle`, `platform`, `kind`, `url`, `bounty`, `first_seen`). A day with no new assets has a single `{"run":…,"new":0}` line; a platform that failed adds a `{"run":…,"platform":…,"error":…}` line. November 2026 was backfilled (`"backfill":true`, date-only `first_seen`); assets that could not be matched to exactly one program have null program fields and `"unresolved":true`.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
