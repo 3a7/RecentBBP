@@ -4,3 +4,4 @@
 {"asset":"mtg2doc-support-tool.deere.com","type":"domain","program":"John Deere","handle":"john-deere","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/john-deere","bounty":false,"first_seen":"2026-11-23T17:49:37Z"}
 {"asset":"smim.sontiq.com","type":"domain","program":"TransUnion LLC","handle":"transunion","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/transunion","bounty":false,"first_seen":"2026-11-23T17:49:37Z"}
 {"run":"2026-11-23T17:49:37Z","platform":"HackenProof","error":"slugs 322/332"}
+{"asset":"lac-visa-payments-day.visa.com","type":"domain","program":"Visa","handle":"visa","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/visa","bounty":true,"first_seen":"2026-11-23T18:50:35Z"}
