@@ -1,3 +1,5 @@
 *.creditapps.com.au
 dealertools.deere.com
 debut.disney.com
+mtg2doc-support-tool.deere.com
+smim.sontiq.com
