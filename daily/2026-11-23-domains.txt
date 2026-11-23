@@ -1,1 +1,2 @@
 *.creditapps.com.au
+dealertools.deere.com
