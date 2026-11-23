@@ -1,8 +1,0 @@
-hosted.weblate.org
-www.ipbooster.com
-*.mercadolibre.com.ve
-*.tucarro.com.ve
-www.semrush.com
-*.randstad.*
-*.randstadrisesmart.*
-*.risesmart.*
