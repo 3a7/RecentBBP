@@ -1,2 +1,3 @@
 {"asset":"*.creditapps.com.au","type":"wildcard","program":"Equifax-vdp","handle":"equifax","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/equifax","bounty":false,"first_seen":"2026-11-23T13:53:52Z"}
 {"asset":"dealertools.deere.com","type":"domain","program":"John Deere","handle":"john-deere","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/john-deere","bounty":false,"first_seen":"2026-11-23T14:51:07Z"}
+{"asset":"debut.disney.com","type":"domain","program":"The Walt Disney Company","handle":"disney","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/disney","bounty":false,"first_seen":"2026-11-23T15:50:45Z"}
