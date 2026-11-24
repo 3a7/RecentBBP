@@ -24,7 +24,6 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - John Deere (VDP - HackerOne) — 2 domains/URLs
 - Visa (BB - HackerOne) — 48 domains/URLs
 Total: 52 domains/URLs, 2 Wildcards
-- HackenProof: check failed (listing); assets from it may be missing.
 
 ### 2026-11-23
 - Equifax-vdp (VDP - HackerOne) — 1 Wildcard
