@@ -1,0 +1,4 @@
+*.atlantichealthvirtualcare.org
+*.uvahealthpcod.org
+pennmedicine.k-test.connect-visit.com
+patientgpt.pennmedicine.k-test.connect-visit.com

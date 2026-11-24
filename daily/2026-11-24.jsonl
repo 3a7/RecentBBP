@@ -1,2 +1,5 @@
-{"run":"2026-11-24T00:49:57Z","new":0}
 {"run":"2026-11-24T01:50:10Z","platform":"HackerOne","error":"1 handles errored: cbre "}
+{"asset":"*.atlantichealthvirtualcare.org","type":"wildcard","program":"KHealth","handle":"khealth","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/khealth","bounty":true,"first_seen":"2026-11-24T15:50:49Z"}
+{"asset":"*.uvahealthpcod.org","type":"wildcard","program":"KHealth","handle":"khealth","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/khealth","bounty":true,"first_seen":"2026-11-24T15:50:49Z"}
+{"asset":"pennmedicine.k-test.connect-visit.com","type":"domain","program":"KHealth","handle":"khealth","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/khealth","bounty":true,"first_seen":"2026-11-24T15:50:49Z"}
+{"asset":"patientgpt.pennmedicine.k-test.connect-visit.com","type":"domain","program":"KHealth","handle":"khealth","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/khealth","bounty":true,"first_seen":"2026-11-24T15:50:49Z"}

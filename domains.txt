@@ -3689,3 +3689,7 @@ mtg2doc-support-tool.deere.com
 smim.sontiq.com
 lac-visa-payments-day.visa.com
 jdsapqhr.deere.com
+*.atlantichealthvirtualcare.org
+*.uvahealthpcod.org
+pennmedicine.k-test.connect-visit.com
+patientgpt.pennmedicine.k-test.connect-visit.com
