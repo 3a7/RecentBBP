@@ -21,7 +21,6 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-24
 No new assets.
-- HackerOne: check failed (1 handles errored: cbre ); assets from it may be missing.
 
 ### 2026-11-23
 - Equifax-vdp (VDP - HackerOne) — 1 Wildcard
