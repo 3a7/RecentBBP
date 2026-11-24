@@ -54,3 +54,12 @@
 {"asset":"visainnovationprogram.com","type":"domain","program":"Visa","handle":"visa","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/visa","bounty":true,"first_seen":"2026-11-24T18:52:51Z"}
 {"asset":"visaonchainanalytics.com","type":"domain","program":"Visa","handle":"visa","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/visa","bounty":true,"first_seen":"2026-11-24T18:52:51Z"}
 {"run":"2026-11-24T18:52:51Z","platform":"HackenProof","error":"listing"}
+{"asset":"https://bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://contributing.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://community.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://help.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://scim.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://send.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://sso.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://vault.bitwarden.com","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
+{"asset":"https://passkeys.directory","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-24T21:50:07Z"}
