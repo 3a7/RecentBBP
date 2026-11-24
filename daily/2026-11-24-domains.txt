@@ -2,3 +2,4 @@
 *.uvahealthpcod.org
 pennmedicine.k-test.connect-visit.com
 patientgpt.pennmedicine.k-test.connect-visit.com
+api-us-prod-e00.deere.com
