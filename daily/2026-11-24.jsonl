@@ -4,3 +4,4 @@
 {"asset":"pennmedicine.k-test.connect-visit.com","type":"domain","program":"KHealth","handle":"khealth","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/khealth","bounty":true,"first_seen":"2026-11-24T15:50:49Z"}
 {"asset":"patientgpt.pennmedicine.k-test.connect-visit.com","type":"domain","program":"KHealth","handle":"khealth","platform":"HackerOne","kind":"BB","url":"https://hackerone.com/khealth","bounty":true,"first_seen":"2026-11-24T15:50:49Z"}
 {"asset":"api-us-prod-e00.deere.com","type":"domain","program":"John Deere","handle":"john-deere","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/john-deere","bounty":false,"first_seen":"2026-11-24T16:51:26Z"}
+{"asset":"api.tartarus.prod.mesa.brtws.com","type":"domain","program":"John Deere","handle":"john-deere","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/john-deere","bounty":false,"first_seen":"2026-11-24T17:50:39Z"}
