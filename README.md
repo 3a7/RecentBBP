@@ -21,7 +21,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-25
 - DANA Bug Bounty Program (BB - YesWeHack) — 1 domain/URL
-Total: 1 domain/URL
+- Nubank Brasil Managed Bug Bounty Program (BB - Bugcrowd) — 1 domain/URL
+Total: 2 domains/URLs
 
 ### 2026-11-24
 - KHealth (BB - HackerOne) — 2 domains/URLs, 2 Wildcards
