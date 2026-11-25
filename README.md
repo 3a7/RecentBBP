@@ -21,7 +21,6 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-25
 No new assets.
-- HackenProof: check failed (listing); assets from it may be missing.
 
 ### 2026-11-24
 - KHealth (BB - HackerOne) — 2 domains/URLs, 2 Wildcards
