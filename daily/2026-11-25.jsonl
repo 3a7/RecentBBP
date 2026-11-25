@@ -1,3 +1,4 @@
 {"run":"2026-11-25T00:49:52Z","platform":"HackenProof","error":"listing"}
 {"asset":"mgs-gw.m.dana.id","type":"domain","program":"DANA Bug Bounty Program","handle":"dana-bug-bounty-program","platform":"YesWeHack","kind":"BB","url":"https://yeswehack.com/programs/dana-bug-bounty-program","bounty":true,"first_seen":"2026-11-25T07:49:57Z"}
 {"asset":"*nubank.world","type":"wildcard","program":"Nubank Brasil Managed Bug Bounty Program","handle":"nubank","platform":"Bugcrowd","kind":"BB","url":"https://bugcrowd.com/engagements/nubank","bounty":true,"first_seen":"2026-11-25T14:50:23Z"}
+{"asset":"https://passkeyindex.io","type":"url","program":"Bitwarden","handle":"bitwarden","platform":"HackerOne","kind":"VDP","url":"https://hackerone.com/bitwarden","bounty":false,"first_seen":"2026-11-25T19:50:20Z"}
