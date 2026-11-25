@@ -3752,3 +3752,4 @@ https://send.bitwarden.com
 https://sso.bitwarden.com
 https://vault.bitwarden.com
 https://passkeys.directory
+mgs-gw.m.dana.id

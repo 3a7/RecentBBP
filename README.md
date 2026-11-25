@@ -20,7 +20,8 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-11-25
-No new assets.
+- DANA Bug Bounty Program (BB - YesWeHack) — 1 domain/URL
+Total: 1 domain/URL
 
 ### 2026-11-24
 - KHealth (BB - HackerOne) — 2 domains/URLs, 2 Wildcards
