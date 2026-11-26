@@ -22,6 +22,7 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 ### 2026-11-26
 - Ping Identity (BB - HackerOne) — 1 domain/URL
 Total: 1 domain/URL
+- HackerOne: check failed (1 handles errored: fiserv ); assets from it may be missing.
 
 ### 2026-11-25
 - DANA Bug Bounty Program (BB - YesWeHack) — 1 domain/URL
