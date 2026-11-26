@@ -19,6 +19,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - `state/*.txt` — per-platform snapshots used for diffing (HackenProof).
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
+### 2026-11-26
+No new assets.
+
 ### 2026-11-25
 - DANA Bug Bounty Program (BB - YesWeHack) — 1 domain/URL
 - Nubank Brasil Managed Bug Bounty Program (BB - Bugcrowd) — 1 domain/URL
