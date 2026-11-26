@@ -20,7 +20,9 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 - This README's log below — one dated entry per run, newest first, listing each program and how many assets it contributed (no asset values here; see the .txt files for those).
 
 ### 2026-11-26
-No new assets.
+- Ping Identity (BB - HackerOne) — 1 domain/URL
+Total: 1 domain/URL
+- HackenProof: check failed (slugs 331/332); assets from it may be missing.
 
 ### 2026-11-25
 - DANA Bug Bounty Program (BB - YesWeHack) — 1 domain/URL
