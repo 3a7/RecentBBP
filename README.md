@@ -21,6 +21,7 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-27
 No new assets.
+- HackenProof: check failed (listing); assets from it may be missing.
 
 ### 2026-11-26
 - Ping Identity (BB - HackerOne) — 1 domain/URL
