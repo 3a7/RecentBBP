@@ -448,6 +448,7 @@ wallet.cex.io
 web
 web application
 web.bittrex.com 
+webapp
 wgc.polo-static.com
 whitebit.com
 windows app
