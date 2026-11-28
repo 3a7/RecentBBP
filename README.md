@@ -21,7 +21,6 @@ HackerOne, Intigriti, YesWeHack, Bugcrowd, Immunefi, HackenProof.
 
 ### 2026-11-28
 No new assets.
-- HackenProof: check failed (listing); assets from it may be missing.
 
 ### 2026-11-27
 - RedStone Settle Smart Contracts, API, Webapp (BB - HackenProof) — 1 domain/URL
